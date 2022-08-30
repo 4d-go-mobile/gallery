@@ -227,21 +227,21 @@
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/4d-go-mobile/form-detail-Dashboard/pulls{/number}",
-  "pushed_at": "2022-08-30T06:25:13Z",
+  "pushed_at": "2022-08-30T14:19:22Z",
   "release": {
     "assets": [
       {
-        "browser_download_url": "https://github.com/4d-go-mobile/form-detail-Dashboard/releases/download/0.1.9/form-detail-Dashboard.zip",
+        "browser_download_url": "https://github.com/4d-go-mobile/form-detail-Dashboard/releases/download/0.2.0/form-detail-Dashboard.zip",
         "content_type": "application/zip",
-        "created_at": "2022-08-30T06:25:38Z",
+        "created_at": "2022-08-30T14:20:13Z",
         "download_count": 0,
-        "id": 76268919,
+        "id": 76313364,
         "label": "",
         "name": "form-detail-Dashboard.zip",
-        "node_id": "RA_kwDOFKHIP84Ei8V3",
-        "size": 657913,
+        "node_id": "RA_kwDOFKHIP84EjHMU",
+        "size": 657794,
         "state": "uploaded",
-        "updated_at": "2022-08-30T06:25:39Z",
+        "updated_at": "2022-08-30T14:20:14Z",
         "uploader": {
           "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
           "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -262,10 +262,10 @@
           "type": "Bot",
           "url": "https://api.github.com/users/github-actions%5Bbot%5D"
         },
-        "url": "https://api.github.com/repos/4d-go-mobile/form-detail-Dashboard/releases/assets/76268919"
+        "url": "https://api.github.com/repos/4d-go-mobile/form-detail-Dashboard/releases/assets/76313364"
       }
     ],
-    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-detail-Dashboard/releases/75729298/assets",
+    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-detail-Dashboard/releases/75783335/assets",
     "author": {
       "avatar_url": "https://avatars.githubusercontent.com/u/9010948?v=4",
       "events_url": "https://api.github.com/users/quentinmarciset/events{/privacy}",
@@ -286,21 +286,21 @@
       "type": "User",
       "url": "https://api.github.com/users/quentinmarciset"
     },
-    "body": "Fix issue with CardView in dark mode",
-    "created_at": "2022-08-30T06:17:42Z",
+    "body": "",
+    "created_at": "2022-08-30T14:15:19Z",
     "draft": false,
-    "html_url": "https://github.com/4d-go-mobile/form-detail-Dashboard/releases/tag/0.1.9",
-    "id": 75729298,
-    "name": "👷‍♂️ Adjustments",
-    "node_id": "RE_kwDOFKHIP84Eg4mS",
+    "html_url": "https://github.com/4d-go-mobile/form-detail-Dashboard/releases/tag/0.2.0",
+    "id": 75783335,
+    "name": "🖌️ Material 3",
+    "node_id": "RE_kwDOFKHIP84EhFyn",
     "prerelease": false,
-    "published_at": "2022-08-30T06:25:15Z",
-    "tag_name": "0.1.9",
-    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-Dashboard/tarball/0.1.9",
+    "published_at": "2022-08-30T14:19:22Z",
+    "tag_name": "0.2.0",
+    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-Dashboard/tarball/0.2.0",
     "target_commitish": "master",
-    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-detail-Dashboard/releases/75729298/assets{?name,label}",
-    "url": "https://api.github.com/repos/4d-go-mobile/form-detail-Dashboard/releases/75729298",
-    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-Dashboard/zipball/0.1.9"
+    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-detail-Dashboard/releases/75783335/assets{?name,label}",
+    "url": "https://api.github.com/repos/4d-go-mobile/form-detail-Dashboard/releases/75783335",
+    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-Dashboard/zipball/0.2.0"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-detail-Dashboard/releases{/id}",
   "size": 669,
