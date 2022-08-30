@@ -1,0 +1,193 @@
+{
+  "items": [
+    {
+      "author": "4d-go-mobile",
+      "description": "Open the map app with the selected address",
+      "download_count": 10,
+      "download_url": "https://github.com/4d-go-mobile/formatter-Address/releases/download/0.1.0/formatter-Address.zip",
+      "html_url": "https://github.com/4d-go-mobile/formatter-Address",
+      "image_url": "Specs/formatter/4d-go-mobile/formatter-Address/0.1.0/logo.png",
+      "name": "address",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/4d-go-mobile/formatter-Address/stargazers",
+      "target": [
+        "ios",
+        "android"
+      ],
+      "version": "0.1.0"
+    },
+    {
+      "author": "4d-go-mobile",
+      "description": "Bind a bool to an image, (🔴 for False, 🟢 for True)",
+      "download_count": 7,
+      "download_url": "https://github.com/4d-go-mobile/formatter-BoolToImage/releases/download/0.0.2/formatter-BoolToImage.zip",
+      "html_url": "https://github.com/4d-go-mobile/formatter-BoolToImage",
+      "image_url": "Specs/formatter/4d-go-mobile/formatter-BoolToImage/0.0.2/logo.png",
+      "name": "BoolToImage",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/4d-go-mobile/formatter-BoolToImage/stargazers",
+      "target": [],
+      "version": "0.0.2"
+    },
+    {
+      "author": "4d-go-mobile",
+      "description": "Bind a bool or number field to an emoji to represent the gender (👩, 👨, 🧑)",
+      "download_count": 7,
+      "download_url": "https://github.com/4d-go-mobile/formatter-Emoji/releases/download/0.0.2/formatter-Emoji.zip",
+      "html_url": "https://github.com/4d-go-mobile/formatter-Emoji",
+      "image_url": "Specs/formatter/4d-go-mobile/formatter-Emoji/0.0.2/logo.png",
+      "name": "GenderEmoji",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/4d-go-mobile/formatter-Emoji/stargazers",
+      "target": [],
+      "version": "0.0.2"
+    },
+    {
+      "author": "4d-go-mobile",
+      "description": "Display formatted HTML or 4D styled text in a detailed view",
+      "download_count": 4,
+      "download_url": "https://github.com/4d-go-mobile/formatter-Html/releases/download/0.1.0/formatter-Html.zip",
+      "html_url": "https://github.com/4d-go-mobile/formatter-Html",
+      "image_url": "Specs/formatter/4d-go-mobile/formatter-Html/0.1.0/logo.png",
+      "name": "htmlText",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/4d-go-mobile/formatter-Html/stargazers",
+      "target": [
+        "ios",
+        "android"
+      ],
+      "version": "0.1.0"
+    },
+    {
+      "author": "4d-go-mobile",
+      "description": "Bind an integer to a string (UX designers for 0, Developer for 1, ...,)",
+      "download_count": 9,
+      "download_url": "https://github.com/4d-go-mobile/formatter-IntToString/releases/download/0.0.2/formatter-IntToString.zip",
+      "html_url": "https://github.com/4d-go-mobile/formatter-IntToString",
+      "image_url": "Specs/formatter/4d-go-mobile/formatter-IntToString/0.0.2/logo.png",
+      "name": "integerToString",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/4d-go-mobile/formatter-IntToString/stargazers",
+      "target": [],
+      "version": "0.0.2"
+    },
+    {
+      "author": "4d-go-mobile",
+      "description": "Bind an integer to an image (\"todo.png\" for 0, \"inprogress.png\" for 1, ...)",
+      "download_count": 6,
+      "download_url": "https://github.com/4d-go-mobile/formatter-IntegerToImage/releases/download/0.0.2/formatter-IntegerToImage.zip",
+      "html_url": "https://github.com/4d-go-mobile/formatter-IntegerToImage",
+      "image_url": "Specs/formatter/4d-go-mobile/formatter-IntegerToImage/0.0.2/logo.png",
+      "name": "integerToImage",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/4d-go-mobile/formatter-IntegerToImage/stargazers",
+      "target": [],
+      "version": "0.0.2"
+    },
+    {
+      "author": "4d-go-mobile",
+      "description": "Open the mail application",
+      "download_count": 10,
+      "download_url": "https://github.com/4d-go-mobile/formatter-Mail/releases/download/0.1.0/formatter-Mail.zip",
+      "html_url": "https://github.com/4d-go-mobile/formatter-Mail",
+      "image_url": "Specs/formatter/4d-go-mobile/formatter-Mail/0.1.0/logo.png",
+      "name": "mail",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/4d-go-mobile/formatter-Mail/stargazers",
+      "target": [
+        "ios",
+        "android"
+      ],
+      "version": "0.1.0"
+    },
+    {
+      "author": "4d-go-mobile",
+      "description": "When a phone number is clicked, open a menu to call the number or add a contact",
+      "download_count": 8,
+      "download_url": "https://github.com/4d-go-mobile/formatter-Phone/releases/download/0.1.0/formatter-Phone.zip",
+      "html_url": "https://github.com/4d-go-mobile/formatter-Phone",
+      "image_url": "Specs/formatter/4d-go-mobile/formatter-Phone/0.1.0/logo.png",
+      "name": "phone",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/4d-go-mobile/formatter-Phone/stargazers",
+      "target": [
+        "ios",
+        "android"
+      ],
+      "version": "0.1.0"
+    },
+    {
+      "author": "4d-go-mobile",
+      "description": "Bind a text to an image (\"jean.png\" for Jean, \"laurent.png\" for Laurent, ... )",
+      "download_count": 5,
+      "download_url": "https://github.com/4d-go-mobile/formatter-TextToImage/releases/download/0.0.2/formatter-TextToImage.zip",
+      "html_url": "https://github.com/4d-go-mobile/formatter-TextToImage",
+      "image_url": "Specs/formatter/4d-go-mobile/formatter-TextToImage/0.0.2/logo.png",
+      "name": "textToImage",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/4d-go-mobile/formatter-TextToImage/stargazers",
+      "target": [],
+      "version": "0.0.2"
+    },
+    {
+      "author": "4d-go-mobile",
+      "description": "Bind a text to a string (France for FRA, Morocco for MAR, ...)",
+      "download_count": 6,
+      "download_url": "https://github.com/4d-go-mobile/formatter-TextToString/releases/download/0.0.2/formatter-TextToString.zip",
+      "html_url": "https://github.com/4d-go-mobile/formatter-TextToString",
+      "image_url": "Specs/formatter/4d-go-mobile/formatter-TextToString/0.0.2/logo.png",
+      "name": "textToString",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/4d-go-mobile/formatter-TextToString/stargazers",
+      "target": [],
+      "version": "0.0.2"
+    },
+    {
+      "author": "4d-go-mobile",
+      "description": "Open a URL in external web view",
+      "download_count": 6,
+      "download_url": "https://github.com/4d-go-mobile/formatter-Url/releases/download/0.1.0/formatter-Url.zip",
+      "html_url": "https://github.com/4d-go-mobile/formatter-Url",
+      "image_url": "Specs/formatter/4d-go-mobile/formatter-Url/0.1.0/logo.png",
+      "name": "url",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/4d-go-mobile/formatter-Url/stargazers",
+      "target": [
+        "ios",
+        "android"
+      ],
+      "version": "0.1.0"
+    },
+    {
+      "author": "4d-go-mobile",
+      "description": "Download URL and open activity form to let the user choose what to do with the file",
+      "download_count": 3,
+      "download_url": "https://github.com/4d-go-mobile/formatter-DownloadActivity/releases/download/0.1.0/formatter-DownloadActivity.zip",
+      "html_url": "https://github.com/4d-go-mobile/formatter-DownloadActivity",
+      "image_url": "Specs/formatter/4d-go-mobile/formatter-DownloadActivity/0.1.0/logo.png",
+      "name": "downloadActivity",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/4d-go-mobile/formatter-DownloadActivity/stargazers",
+      "target": [
+        "ios",
+        "android"
+      ],
+      "version": "0.1.0"
+    },
+    {
+      "author": "mesopelagique",
+      "description": "Open url into internal app web browser",
+      "download_count": 10,
+      "download_url": "https://github.com/mesopelagique/formatter-UrlInApp/releases/download/0.0.2/formatter-UrlInApp.zip",
+      "html_url": "https://github.com/mesopelagique/formatter-UrlInApp",
+      "image_url": "Specs/formatter/mesopelagique/formatter-UrlInApp/0.0.2/logo.png",
+      "name": "urlInApp",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/mesopelagique/formatter-UrlInApp/stargazers",
+      "target": [
+        "ios"
+      ],
+      "version": "0.0.2"
+    }
+  ]
+}

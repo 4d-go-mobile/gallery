@@ -1,0 +1,38 @@
+name: 🌍 website
+on:
+  push:
+    paths:
+    - 'website/**'
+    - 'Specs/**'
+    - '.github/workflows/website.yml'
+    - '.github/publish-gh-pages.sh'
+  workflow_dispatch:
+jobs:
+  update:
+    name: website
+    runs-on: macOS-latest
+    steps:
+      - name: ⬇️ Checkout
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 1
+      - name: 🔐 npm auth gpr auth
+        run: |
+          cd website
+          IFS='/' read -r OWNER REPOSITORY <<< "$GITHUB_REPOSITORY"
+          npm config set "@"$OWNER":registry" https://npm.pkg.github.com/$OWNER/ && \
+          npm config set "//npm.pkg.github.com/:_authToken" "${{ secrets.GITHUB_TOKEN }}"
+          npm config list
+      - name: 📦 Install dependencies
+        run: |
+          cd website
+          npm install --verbose
+      - name: 👷‍♂️ Build website
+        run: |
+          cd website
+          npm run build
+      - name: 🚀 Publish website
+        run: |
+          # brew install yq
+          REPOSITORY_NAME=$(jq --raw-output '.repository.name' $GITHUB_EVENT_PATH)
+          .github/publish-gh-pages.sh "$GITHUB_REPOSITORY" "$GITHUB_ACTOR" "$REPOSITORY_NAME" "${{ secrets.PUBLISH_TOKEN }}" "$GITHUB_SHA"

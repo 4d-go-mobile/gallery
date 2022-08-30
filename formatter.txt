@@ -1,0 +1,13 @@
+https://github.com/4d-go-mobile/formatter-Address
+https://github.com/4d-go-mobile/formatter-BoolToImage
+https://github.com/4d-go-mobile/formatter-Emoji
+https://github.com/4d-go-mobile/formatter-Html
+https://github.com/4d-go-mobile/formatter-IntToString
+https://github.com/4d-go-mobile/formatter-IntegerToImage
+https://github.com/4d-go-mobile/formatter-Mail
+https://github.com/4d-go-mobile/formatter-Phone
+https://github.com/4d-go-mobile/formatter-TextToImage
+https://github.com/4d-go-mobile/formatter-TextToString
+https://github.com/4d-go-mobile/formatter-Url
+https://github.com/4d-go-mobile/formatter-DownloadActivity
+https://github.com/mesopelagique/formatter-UrlInApp

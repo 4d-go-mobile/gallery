@@ -1,0 +1,22 @@
+name: 📋 specs
+
+on:
+  push:
+    paths:
+    - '.github/workflows/specs.yml'
+    - 'Specs/**' 
+jobs:
+  update:
+    name: specs
+    runs-on: macOS-latest
+    steps:
+      - name: ⬇️ Checkout
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 1
+      - name: © Copy specs
+        run: |
+          REPOSITORY_NAME=$(jq --raw-output '.repository.name' $GITHUB_EVENT_PATH)
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          .github/copy-specs-gh-pages.sh "$GITHUB_REPOSITORY" "$GITHUB_ACTOR" "$REPOSITORY_NAME" "${{ secrets.GITHUB_TOKEN }}" "$GITHUB_SHA"
