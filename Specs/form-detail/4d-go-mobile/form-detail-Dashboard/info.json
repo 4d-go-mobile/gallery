@@ -234,7 +234,7 @@
         "browser_download_url": "https://github.com/4d-go-mobile/form-detail-Dashboard/releases/download/0.2.0/form-detail-Dashboard.zip",
         "content_type": "application/zip",
         "created_at": "2022-08-30T14:20:13Z",
-        "download_count": 1,
+        "download_count": 3,
         "id": 76313364,
         "label": "",
         "name": "form-detail-Dashboard.zip",
@@ -303,7 +303,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-Dashboard/zipball/0.2.0"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-detail-Dashboard/releases{/id}",
-  "size": 669,
+  "size": 671,
   "source": {
     "allow_forking": true,
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-detail-Dashboard/{archive_format}{/ref}",
