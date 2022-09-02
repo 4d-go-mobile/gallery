@@ -268,7 +268,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-VisualTable/zipball/0.1.7"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-VisualTable/releases{/id}",
-  "size": 3493,
+  "size": 3494,
   "source": {
     "allow_forking": true,
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-list-VisualTable/{archive_format}{/ref}",

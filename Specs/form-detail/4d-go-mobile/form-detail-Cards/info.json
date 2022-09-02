@@ -268,7 +268,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-Cards/zipball/0.1.9"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-detail-Cards/releases{/id}",
-  "size": 747,
+  "size": 749,
   "source": {
     "allow_forking": true,
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-detail-Cards/{archive_format}{/ref}",

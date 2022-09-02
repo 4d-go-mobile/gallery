@@ -268,7 +268,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-SimpleList/zipball/0.1.8"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-detail-SimpleList/releases{/id}",
-  "size": 525,
+  "size": 527,
   "source": {
     "allow_forking": true,
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-detail-SimpleList/{archive_format}{/ref}",

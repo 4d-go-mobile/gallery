@@ -268,7 +268,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-VerticalCards/zipball/0.1.8"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-VerticalCards/releases{/id}",
-  "size": 3703,
+  "size": 3704,
   "source": {
     "allow_forking": true,
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-list-VerticalCards/{archive_format}{/ref}",

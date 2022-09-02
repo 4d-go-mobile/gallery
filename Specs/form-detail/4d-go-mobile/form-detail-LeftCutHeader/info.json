@@ -268,7 +268,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/zipball/0.2.0"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/releases{/id}",
-  "size": 1151,
+  "size": 1140,
   "source": {
     "allow_forking": true,
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-detail-LeftCutHeader/{archive_format}{/ref}",
