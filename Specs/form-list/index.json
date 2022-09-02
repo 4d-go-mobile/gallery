@@ -19,6 +19,23 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile List Form template",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-go-mobile/form-list-ClientList/releases/download/0.1.6/form-list-ClientList.zip",
+      "html_url": "https://github.com/4d-go-mobile/form-list-ClientList",
+      "image_url": "Specs/form-list/4d-go-mobile/form-list-ClientList/0.1.6/logo.png",
+      "name": "Client List",
+      "preview_url": "Specs/form-list/4d-go-mobile/form-list-ClientList/0.1.6/preview.gif",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-list-ClientList/stargazers",
+      "target": [
+        "ios",
+        "android"
+      ],
+      "version": "0.1.6"
+    },
+    {
+      "author": "4d-go-mobile",
+      "description": "4D Mobile List Form template",
       "download_count": 20,
       "download_url": "https://github.com/4d-go-mobile/form-list-Cube/releases/download/0.1.0/form-list-Cube.zip",
       "html_url": "https://github.com/4d-go-mobile/form-list-Cube",
@@ -67,6 +84,23 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile List Form template",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-go-mobile/form-list-FourLabelsList/releases/download/0.1.5/form-list-FourLabelsList.zip",
+      "html_url": "https://github.com/4d-go-mobile/form-list-FourLabelsList",
+      "image_url": "Specs/form-list/4d-go-mobile/form-list-FourLabelsList/0.1.5/logo.png",
+      "name": "Four Label Table",
+      "preview_url": "Specs/form-list/4d-go-mobile/form-list-FourLabelsList/0.1.5/preview.gif",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-list-FourLabelsList/stargazers",
+      "target": [
+        "ios",
+        "android"
+      ],
+      "version": "0.1.5"
+    },
+    {
+      "author": "4d-go-mobile",
+      "description": "4D Mobile List Form template",
       "download_count": 16,
       "download_url": "https://github.com/4d-go-mobile/form-list-Horizontal-Cards/releases/download/0.1.0/form-list-Horizontal-Cards.zip",
       "html_url": "https://github.com/4d-go-mobile/form-list-Horizontal-Cards",
@@ -79,6 +113,23 @@
         "ios"
       ],
       "version": "0.1.0"
+    },
+    {
+      "author": "4d-go-mobile",
+      "description": "4D Mobile List Form template",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-go-mobile/form-list-InvoiceList/releases/download/0.1.5/form-list-InvoiceList.zip",
+      "html_url": "https://github.com/4d-go-mobile/form-list-InvoiceList",
+      "image_url": "Specs/form-list/4d-go-mobile/form-list-InvoiceList/0.1.5/logo.png",
+      "name": "Invoice List",
+      "preview_url": "Specs/form-list/4d-go-mobile/form-list-InvoiceList/0.1.5/preview.gif",
+      "stargazers_count": 0,
+      "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-list-InvoiceList/stargazers",
+      "target": [
+        "ios",
+        "android"
+      ],
+      "version": "0.1.5"
     },
     {
       "author": "4d-go-mobile",

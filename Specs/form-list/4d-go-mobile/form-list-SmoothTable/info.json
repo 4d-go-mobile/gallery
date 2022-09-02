@@ -268,7 +268,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/zipball/0.1.8"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/releases{/id}",
-  "size": 1006,
+  "size": 1008,
   "source": {
     "allow_forking": true,
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-list-SmoothTable/{archive_format}{/ref}",
