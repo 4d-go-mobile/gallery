@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/4d-go-mobile/form-list-SimpleTable/releases/download/0.1.6/form-list-SimpleTable.zip",
+      "browser_download_url": "https://github.com/4d-go-mobile/formatter-Address/releases/download/0.1.1/formatter-Address.zip",
       "content_type": "application/zip",
-      "created_at": "2022-09-02T12:21:16Z",
-      "download_count": 2,
-      "id": 76669398,
+      "created_at": "2022-09-07T14:02:42Z",
+      "download_count": 0,
+      "id": 77139266,
       "label": "",
-      "name": "form-list-SimpleTable.zip",
-      "node_id": "RA_kwDOFKHHIc4EkeHW",
-      "size": 550064,
+      "name": "formatter-Address.zip",
+      "node_id": "RA_kwDOC1keBc4EmQ1C",
+      "size": 28148,
       "state": "uploaded",
-      "updated_at": "2022-09-02T12:21:17Z",
+      "updated_at": "2022-09-07T14:02:43Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -32,10 +32,10 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleTable/releases/assets/76669398"
+      "url": "https://api.github.com/repos/4d-go-mobile/formatter-Address/releases/assets/77139266"
     }
   ],
-  "assets_url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleTable/releases/76139283/assets",
+  "assets_url": "https://api.github.com/repos/4d-go-mobile/formatter-Address/releases/76493949/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/u/9010948?v=4",
     "events_url": "https://api.github.com/users/quentinmarciset/events{/privacy}",
@@ -57,18 +57,18 @@
     "url": "https://api.github.com/users/quentinmarciset"
   },
   "body": "",
-  "created_at": "2022-09-02T11:26:51Z",
+  "created_at": "2022-09-07T14:01:48Z",
   "draft": false,
-  "html_url": "https://github.com/4d-go-mobile/form-list-SimpleTable/releases/tag/0.1.6",
-  "id": 76139283,
-  "name": "🖌️ Material 3",
-  "node_id": "RE_kwDOFKHHIc4EicsT",
+  "html_url": "https://github.com/4d-go-mobile/formatter-Address/releases/tag/0.1.1",
+  "id": 76493949,
+  "name": "👷‍♂️ Adjustments",
+  "node_id": "RE_kwDOC1keBc4EjzR9",
   "prerelease": false,
-  "published_at": "2022-09-02T11:27:05Z",
-  "tag_name": "0.1.6",
-  "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleTable/tarball/0.1.6",
+  "published_at": "2022-09-07T14:02:23Z",
+  "tag_name": "0.1.1",
+  "tarball_url": "https://api.github.com/repos/4d-go-mobile/formatter-Address/tarball/0.1.1",
   "target_commitish": "master",
-  "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-list-SimpleTable/releases/76139283/assets{?name,label}",
-  "url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleTable/releases/76139283",
-  "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleTable/zipball/0.1.6"
+  "upload_url": "https://uploads.github.com/repos/4d-go-mobile/formatter-Address/releases/76493949/assets{?name,label}",
+  "url": "https://api.github.com/repos/4d-go-mobile/formatter-Address/releases/76493949",
+  "zipball_url": "https://api.github.com/repos/4d-go-mobile/formatter-Address/zipball/0.1.1"
 }
