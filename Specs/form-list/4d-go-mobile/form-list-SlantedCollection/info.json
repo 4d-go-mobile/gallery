@@ -67,8 +67,8 @@
   "network_count": 1,
   "node_id": "MDEwOlJlcG9zaXRvcnkzNDYxNDY1OTk=",
   "notifications_url": "https://api.github.com/repos/4d-go-mobile/form-list-SlantedCollection/notifications{?since,all,participating}",
-  "open_issues": 1,
-  "open_issues_count": 1,
+  "open_issues": 0,
+  "open_issues_count": 0,
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/79459282?v=4",
     "events_url": "https://api.github.com/users/4d-go-mobile/events{/privacy}",
@@ -227,21 +227,21 @@
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/4d-go-mobile/form-list-SlantedCollection/pulls{/number}",
-  "pushed_at": "2022-09-11T12:48:23Z",
+  "pushed_at": "2022-09-16T19:59:03Z",
   "release": {
     "assets": [
       {
-        "browser_download_url": "https://github.com/4d-go-mobile/form-list-SlantedCollection/releases/download/0.2.3/form-list-SlantedCollection.zip",
+        "browser_download_url": "https://github.com/4d-go-mobile/form-list-SlantedCollection/releases/download/0.3.0/form-list-SlantedCollection.zip",
         "content_type": "application/zip",
-        "created_at": "2022-06-01T13:47:01Z",
-        "download_count": 7,
-        "id": 67242409,
+        "created_at": "2022-09-16T20:01:25Z",
+        "download_count": 0,
+        "id": 78112380,
         "label": "",
         "name": "form-list-SlantedCollection.zip",
-        "node_id": "RA_kwDOFKHHJ84EAgmp",
-        "size": 12157717,
+        "node_id": "RA_kwDOFKHHJ84Ep-Z8",
+        "size": 10825796,
         "state": "uploaded",
-        "updated_at": "2022-06-01T13:47:02Z",
+        "updated_at": "2022-09-16T20:01:26Z",
         "uploader": {
           "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
           "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -262,10 +262,10 @@
           "type": "Bot",
           "url": "https://api.github.com/users/github-actions%5Bbot%5D"
         },
-        "url": "https://api.github.com/repos/4d-go-mobile/form-list-SlantedCollection/releases/assets/67242409"
+        "url": "https://api.github.com/repos/4d-go-mobile/form-list-SlantedCollection/releases/assets/78112380"
       }
     ],
-    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-list-SlantedCollection/releases/68344942/assets",
+    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-list-SlantedCollection/releases/77427783/assets",
     "author": {
       "avatar_url": "https://avatars.githubusercontent.com/u/59135882?v=4",
       "events_url": "https://api.github.com/users/mesopelagique/events{/privacy}",
@@ -287,23 +287,23 @@
       "url": "https://api.github.com/users/mesopelagique"
     },
     "body": "",
-    "created_at": "2022-06-01T13:43:53Z",
+    "created_at": "2022-09-16T13:41:50Z",
     "draft": false,
-    "html_url": "https://github.com/4d-go-mobile/form-list-SlantedCollection/releases/tag/0.2.3",
-    "id": 68344942,
-    "name": "Update to Xcode 13.4",
-    "node_id": "RE_kwDOFKHHJ84EEtxu",
+    "html_url": "https://github.com/4d-go-mobile/form-list-SlantedCollection/releases/tag/0.3.0",
+    "id": 77427783,
+    "name": "Xcode 14",
+    "node_id": "RE_kwDOFKHHJ84EnXRH",
     "prerelease": false,
-    "published_at": "2022-06-01T13:44:32Z",
-    "tag_name": "0.2.3",
-    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SlantedCollection/tarball/0.2.3",
+    "published_at": "2022-09-16T19:59:03Z",
+    "tag_name": "0.3.0",
+    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SlantedCollection/tarball/0.3.0",
     "target_commitish": "master",
-    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-list-SlantedCollection/releases/68344942/assets{?name,label}",
-    "url": "https://api.github.com/repos/4d-go-mobile/form-list-SlantedCollection/releases/68344942",
-    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SlantedCollection/zipball/0.2.3"
+    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-list-SlantedCollection/releases/77427783/assets{?name,label}",
+    "url": "https://api.github.com/repos/4d-go-mobile/form-list-SlantedCollection/releases/77427783",
+    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SlantedCollection/zipball/0.3.0"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-SlantedCollection/releases{/id}",
-  "size": 48131,
+  "size": 48339,
   "source": {
     "allow_forking": true,
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-list-SlantedCollection/{archive_format}{/ref}",
