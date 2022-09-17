@@ -3,7 +3,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 36,
+      "download_count": 37,
       "download_url": "https://github.com/4d-go-mobile/form-list-CardsTable/releases/download/0.1.0/form-list-CardsTable.zip",
       "html_url": "https://github.com/4d-go-mobile/form-list-CardsTable",
       "image_url": "Specs/form-list/4d-go-mobile/form-list-CardsTable/0.1.0/logo.png",
@@ -36,7 +36,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 21,
+      "download_count": 22,
       "download_url": "https://github.com/4d-go-mobile/form-list-Cube/releases/download/0.1.0/form-list-Cube.zip",
       "html_url": "https://github.com/4d-go-mobile/form-list-Cube",
       "image_url": "Specs/form-list/4d-go-mobile/form-list-Cube/0.1.0/logo.png",
@@ -52,7 +52,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 30,
+      "download_count": 31,
       "download_url": "https://github.com/4d-go-mobile/form-list-DynamicTable/releases/download/0.1.0/form-list-DynamicTable.zip",
       "html_url": "https://github.com/4d-go-mobile/form-list-DynamicTable",
       "image_url": "Specs/form-list/4d-go-mobile/form-list-DynamicTable/0.1.0/logo.png",
@@ -85,18 +85,18 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 4,
-      "download_url": "https://github.com/4d-go-mobile/form-list-FoldingCellList/releases/download/0.2.4/form-list-FoldingCellList.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-go-mobile/form-list-FoldingCellList/releases/download/0.3.0/form-list-FoldingCellList.zip",
       "html_url": "https://github.com/4d-go-mobile/form-list-FoldingCellList",
-      "image_url": "Specs/form-list/4d-go-mobile/form-list-FoldingCellList/0.2.4/logo.png",
+      "image_url": "Specs/form-list/4d-go-mobile/form-list-FoldingCellList/0.3.0/logo.png",
       "name": "Folding Cell List",
-      "preview_url": "Specs/form-list/4d-go-mobile/form-list-FoldingCellList/0.2.4/preview.gif",
+      "preview_url": "Specs/form-list/4d-go-mobile/form-list-FoldingCellList/0.3.0/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-list-FoldingCellList/stargazers",
       "target": [
         "ios"
       ],
-      "version": "0.2.4"
+      "version": "0.3.0"
     },
     {
       "author": "4d-go-mobile",
@@ -118,7 +118,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 16,
+      "download_count": 17,
       "download_url": "https://github.com/4d-go-mobile/form-list-Horizontal-Cards/releases/download/0.1.0/form-list-Horizontal-Cards.zip",
       "html_url": "https://github.com/4d-go-mobile/form-list-Horizontal-Cards",
       "image_url": "Specs/form-list/4d-go-mobile/form-list-Horizontal-Cards/0.1.0/logo.png",
@@ -184,7 +184,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 22,
+      "download_count": 23,
       "download_url": "https://github.com/4d-go-mobile/form-list-Mozaic/releases/download/0.1.0/form-list-Mozaic.zip",
       "html_url": "https://github.com/4d-go-mobile/form-list-Mozaic",
       "image_url": "Specs/form-list/4d-go-mobile/form-list-Mozaic/0.1.0/logo.png",
@@ -216,7 +216,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 12,
+      "download_count": 13,
       "download_url": "https://github.com/4d-go-mobile/form-list-Parallax/releases/download/0.1.0/form-list-Parallax.zip",
       "html_url": "https://github.com/4d-go-mobile/form-list-Parallax",
       "image_url": "Specs/form-list/4d-go-mobile/form-list-Parallax/0.1.0/logo.png",
@@ -249,7 +249,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 1,
+      "download_count": 2,
       "download_url": "https://github.com/4d-go-mobile/form-list-SimpleCollection/releases/download/0.1.7/form-list-SimpleCollection.zip",
       "html_url": "https://github.com/4d-go-mobile/form-list-SimpleCollection",
       "image_url": "Specs/form-list/4d-go-mobile/form-list-SimpleCollection/0.1.7/logo.png",
@@ -316,18 +316,18 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 6,
-      "download_url": "https://github.com/4d-go-mobile/form-list-SlantedCollection/releases/download/0.2.3/form-list-SlantedCollection.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-go-mobile/form-list-SlantedCollection/releases/download/0.3.0/form-list-SlantedCollection.zip",
       "html_url": "https://github.com/4d-go-mobile/form-list-SlantedCollection",
-      "image_url": "Specs/form-list/4d-go-mobile/form-list-SlantedCollection/0.2.3/logo.png",
+      "image_url": "Specs/form-list/4d-go-mobile/form-list-SlantedCollection/0.3.0/logo.png",
       "name": "Slanted Collection",
-      "preview_url": "Specs/form-list/4d-go-mobile/form-list-SlantedCollection/0.2.3/preview.gif",
+      "preview_url": "Specs/form-list/4d-go-mobile/form-list-SlantedCollection/0.3.0/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-list-SlantedCollection/stargazers",
       "target": [
         "ios"
       ],
-      "version": "0.2.3"
+      "version": "0.3.0"
     },
     {
       "author": "4d-go-mobile",
@@ -399,7 +399,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 10,
+      "download_count": 11,
       "download_url": "https://github.com/4d-go-mobile/form-list-TasksList/releases/download/0.1.0/form-list-TasksList.zip",
       "html_url": "https://github.com/4d-go-mobile/form-list-TasksList",
       "image_url": "Specs/form-list/4d-go-mobile/form-list-TasksList/0.1.0/logo.png",
@@ -448,7 +448,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile List Form template",
-      "download_count": 2,
+      "download_count": 3,
       "download_url": "https://github.com/4d-go-mobile/form-list-VisualTable/releases/download/0.1.7/form-list-VisualTable.zip",
       "html_url": "https://github.com/4d-go-mobile/form-list-VisualTable",
       "image_url": "Specs/form-list/4d-go-mobile/form-list-VisualTable/0.1.7/logo.png",
