@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/4d-go-mobile/form-list-SmoothTable/releases/download/0.1.9/form-list-SmoothTable.zip",
+      "browser_download_url": "https://github.com/4d-go-mobile/input-control-imageCheck/releases/download/0.0.2/input-control-imageCheck.zip",
       "content_type": "application/zip",
-      "created_at": "2022-09-09T07:29:50Z",
-      "download_count": 2,
-      "id": 77327948,
+      "created_at": "2022-09-27T13:47:57Z",
+      "download_count": 0,
+      "id": 79178191,
       "label": "",
-      "name": "form-list-SmoothTable.zip",
-      "node_id": "RA_kwDOFKHHEs4Em-5M",
-      "size": 1022769,
+      "name": "input-control-imageCheck.zip",
+      "node_id": "RA_kwDOFyXC_s4EuCnP",
+      "size": 15340,
       "state": "uploaded",
-      "updated_at": "2022-09-09T07:29:51Z",
+      "updated_at": "2022-09-27T13:47:57Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -32,10 +32,10 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/releases/assets/77327948"
+      "url": "https://api.github.com/repos/4d-go-mobile/input-control-imageCheck/releases/assets/79178191"
     }
   ],
-  "assets_url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/releases/76681236/assets",
+  "assets_url": "https://api.github.com/repos/4d-go-mobile/input-control-imageCheck/releases/78298588/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/u/9010948?v=4",
     "events_url": "https://api.github.com/users/quentinmarciset/events{/privacy}",
@@ -57,18 +57,18 @@
     "url": "https://api.github.com/users/quentinmarciset"
   },
   "body": "",
-  "created_at": "2022-09-09T07:05:54Z",
+  "created_at": "2022-09-27T13:45:13Z",
   "draft": false,
-  "html_url": "https://github.com/4d-go-mobile/form-list-SmoothTable/releases/tag/0.1.9",
-  "id": 76681236,
-  "name": "🖌️ Material 3 + adjustments",
-  "node_id": "RE_kwDOFKHHEs4EkhAU",
+  "html_url": "https://github.com/4d-go-mobile/input-control-imageCheck/releases/tag/0.0.2",
+  "id": 78298588,
+  "name": "🤖 Kotlin Input Control",
+  "node_id": "RE_kwDOFyXC_s4Eqr3c",
   "prerelease": false,
-  "published_at": "2022-09-09T07:07:21Z",
-  "tag_name": "0.1.9",
-  "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/tarball/0.1.9",
-  "target_commitish": "master",
-  "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-list-SmoothTable/releases/76681236/assets{?name,label}",
-  "url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/releases/76681236",
-  "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/zipball/0.1.9"
+  "published_at": "2022-09-27T13:47:27Z",
+  "tag_name": "0.0.2",
+  "tarball_url": "https://api.github.com/repos/4d-go-mobile/input-control-imageCheck/tarball/0.0.2",
+  "target_commitish": "main",
+  "upload_url": "https://uploads.github.com/repos/4d-go-mobile/input-control-imageCheck/releases/78298588/assets{?name,label}",
+  "url": "https://api.github.com/repos/4d-go-mobile/input-control-imageCheck/releases/78298588",
+  "zipball_url": "https://api.github.com/repos/4d-go-mobile/input-control-imageCheck/zipball/0.0.2"
 }
