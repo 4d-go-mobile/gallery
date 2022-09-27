@@ -61,7 +61,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Bind an integer to a string (UX designers for 0, Developer for 1, ...,)",
-      "download_count": 9,
+      "download_count": 10,
       "download_url": "https://github.com/4d-go-mobile/formatter-IntToString/releases/download/0.0.2/formatter-IntToString.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-IntToString",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-IntToString/0.0.2/logo.png",
