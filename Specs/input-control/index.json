@@ -67,10 +67,10 @@
     {
       "author": "4d-go-mobile",
       "description": "Boolean input using two images",
-      "download_count": 3,
-      "download_url": "https://github.com/4d-go-mobile/input-control-imageCheck/releases/download/0.0.2/input-control-imageCheck.zip",
+      "download_count": 0,
+      "download_url": "https://github.com/4d-go-mobile/input-control-imageCheck/releases/download/0.0.3/input-control-imageCheck.zip",
       "html_url": "https://github.com/4d-go-mobile/input-control-imageCheck",
-      "image_url": "Specs/input-control/4d-go-mobile/input-control-imageCheck/0.0.2/logo.png",
+      "image_url": "Specs/input-control/4d-go-mobile/input-control-imageCheck/0.0.3/logo.png",
       "name": "imageCheck",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/input-control-imageCheck/stargazers",
@@ -78,7 +78,7 @@
         "ios",
         "android"
       ],
-      "version": "0.0.2"
+      "version": "0.0.3"
     }
   ]
 }
