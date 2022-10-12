@@ -125,7 +125,7 @@
         "browser_download_url": "https://github.com/4d-go-mobile/input-control-imageCheck/releases/download/0.0.3/input-control-imageCheck.zip",
         "content_type": "application/zip",
         "created_at": "2022-10-12T08:17:28Z",
-        "download_count": 0,
+        "download_count": 2,
         "id": 80740753,
         "label": "",
         "name": "input-control-imageCheck.zip",
@@ -194,7 +194,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/input-control-imageCheck/zipball/0.0.3"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/input-control-imageCheck/releases{/id}",
-  "size": 14,
+  "size": 15,
   "squash_merge_commit_message": "COMMIT_MESSAGES",
   "squash_merge_commit_title": "COMMIT_OR_PR_TITLE",
   "ssh_url": "git@github.com:4d-go-mobile/input-control-imageCheck.git",
