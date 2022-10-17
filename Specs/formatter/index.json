@@ -45,10 +45,10 @@
     {
       "author": "4d-go-mobile",
       "description": "Display formatted HTML or 4D styled text in a detailed view",
-      "download_count": 4,
-      "download_url": "https://github.com/4d-go-mobile/formatter-Html/releases/download/0.1.0/formatter-Html.zip",
+      "download_count": 1,
+      "download_url": "https://github.com/4d-go-mobile/formatter-Html/releases/download/0.1.1/formatter-Html.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Html",
-      "image_url": "Specs/formatter/4d-go-mobile/formatter-Html/0.1.0/logo.png",
+      "image_url": "Specs/formatter/4d-go-mobile/formatter-Html/0.1.1/logo.png",
       "name": "htmlText",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/formatter-Html/stargazers",
@@ -56,7 +56,7 @@
         "ios",
         "android"
       ],
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "author": "4d-go-mobile",
@@ -161,10 +161,10 @@
     {
       "author": "4d-go-mobile",
       "description": "Download URL and open activity form to let the user choose what to do with the file",
-      "download_count": 3,
-      "download_url": "https://github.com/4d-go-mobile/formatter-DownloadActivity/releases/download/0.1.0/formatter-DownloadActivity.zip",
+      "download_count": 1,
+      "download_url": "https://github.com/4d-go-mobile/formatter-DownloadActivity/releases/download/0.1.1/formatter-DownloadActivity.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-DownloadActivity",
-      "image_url": "Specs/formatter/4d-go-mobile/formatter-DownloadActivity/0.1.0/logo.png",
+      "image_url": "Specs/formatter/4d-go-mobile/formatter-DownloadActivity/0.1.1/logo.png",
       "name": "downloadActivity",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/formatter-DownloadActivity/stargazers",
@@ -172,7 +172,7 @@
         "ios",
         "android"
       ],
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     {
       "author": "mesopelagique",
