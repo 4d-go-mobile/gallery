@@ -227,21 +227,21 @@
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/4d-go-mobile/form-list-FiveLabelsList/pulls{/number}",
-  "pushed_at": "2022-09-09T07:08:45Z",
+  "pushed_at": "2022-10-26T13:40:45Z",
   "release": {
     "assets": [
       {
-        "browser_download_url": "https://github.com/4d-go-mobile/form-list-FiveLabelsList/releases/download/0.1.9/form-list-FiveLabelsList.zip",
+        "browser_download_url": "https://github.com/4d-go-mobile/form-list-FiveLabelsList/releases/download/0.1.10/form-list-FiveLabelsList.zip",
         "content_type": "application/zip",
-        "created_at": "2022-09-09T07:21:20Z",
-        "download_count": 6,
-        "id": 77327267,
+        "created_at": "2022-10-26T13:43:21Z",
+        "download_count": 0,
+        "id": 82336420,
         "label": "",
         "name": "form-list-FiveLabelsList.zip",
-        "node_id": "RA_kwDOFKHHDs4Em-uj",
-        "size": 1835126,
+        "node_id": "RA_kwDOFKHHDs4E6Fqk",
+        "size": 1835139,
         "state": "uploaded",
-        "updated_at": "2022-09-09T07:21:21Z",
+        "updated_at": "2022-10-26T13:43:22Z",
         "uploader": {
           "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
           "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -262,10 +262,10 @@
           "type": "Bot",
           "url": "https://api.github.com/users/github-actions%5Bbot%5D"
         },
-        "url": "https://api.github.com/repos/4d-go-mobile/form-list-FiveLabelsList/releases/assets/77327267"
+        "url": "https://api.github.com/repos/4d-go-mobile/form-list-FiveLabelsList/releases/assets/82336420"
       }
     ],
-    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-list-FiveLabelsList/releases/76681307/assets",
+    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-list-FiveLabelsList/releases/81048187/assets",
     "author": {
       "avatar_url": "https://avatars.githubusercontent.com/u/9010948?v=4",
       "events_url": "https://api.github.com/users/quentinmarciset/events{/privacy}",
@@ -287,20 +287,20 @@
       "url": "https://api.github.com/users/quentinmarciset"
     },
     "body": "",
-    "created_at": "2022-09-09T07:08:14Z",
+    "created_at": "2022-10-26T13:40:29Z",
     "draft": false,
-    "html_url": "https://github.com/4d-go-mobile/form-list-FiveLabelsList/releases/tag/0.1.9",
-    "id": 76681307,
-    "name": "🖌️ Material 3 + adjustments",
-    "node_id": "RE_kwDOFKHHDs4EkhBb",
+    "html_url": "https://github.com/4d-go-mobile/form-list-FiveLabelsList/releases/tag/0.1.10",
+    "id": 81048187,
+    "name": "👷‍♂️ Adjustments",
+    "node_id": "RE_kwDOFKHHDs4E1LJ7",
     "prerelease": false,
-    "published_at": "2022-09-09T07:08:45Z",
-    "tag_name": "0.1.9",
-    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-list-FiveLabelsList/tarball/0.1.9",
+    "published_at": "2022-10-26T13:40:45Z",
+    "tag_name": "0.1.10",
+    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-list-FiveLabelsList/tarball/0.1.10",
     "target_commitish": "master",
-    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-list-FiveLabelsList/releases/76681307/assets{?name,label}",
-    "url": "https://api.github.com/repos/4d-go-mobile/form-list-FiveLabelsList/releases/76681307",
-    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-FiveLabelsList/zipball/0.1.9"
+    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-list-FiveLabelsList/releases/81048187/assets{?name,label}",
+    "url": "https://api.github.com/repos/4d-go-mobile/form-list-FiveLabelsList/releases/81048187",
+    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-FiveLabelsList/zipball/0.1.10"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-FiveLabelsList/releases{/id}",
   "size": 1812,
