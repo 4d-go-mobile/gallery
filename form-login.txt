@@ -1,2 +1,3 @@
 https://github.com/4d-go-mobile/form-login-SignInWithApple
 https://github.com/mesopelagique/form-login-SignInWithQRCode
+https://github.com/4d-go-mobile/form-login-GoogleSignIn
