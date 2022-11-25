@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/4d-go-mobile/form-detail-TasksPlus/releases/download/0.1.12/form-detail-TasksPlus.zip",
+      "browser_download_url": "https://github.com/4d-go-mobile/form-login-GoogleSignIn/releases/download/0.0.3/form-login-GoogleSignIn.zip",
       "content_type": "application/zip",
-      "created_at": "2022-09-02T12:21:39Z",
-      "download_count": 5,
-      "id": 76669445,
+      "created_at": "2022-11-25T11:43:25Z",
+      "download_count": 0,
+      "id": 85930420,
       "label": "",
-      "name": "form-detail-TasksPlus.zip",
-      "node_id": "RA_kwDOFKHIQs4EkeIF",
-      "size": 156221,
+      "name": "form-login-GoogleSignIn.zip",
+      "node_id": "RA_kwDOIgCbyM4FHzG0",
+      "size": 6853,
       "state": "uploaded",
-      "updated_at": "2022-09-02T12:21:39Z",
+      "updated_at": "2022-11-25T11:43:25Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -32,10 +32,10 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/releases/assets/76669445"
+      "url": "https://api.github.com/repos/4d-go-mobile/form-login-GoogleSignIn/releases/assets/85930420"
     }
   ],
-  "assets_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/releases/76139514/assets",
+  "assets_url": "https://api.github.com/repos/4d-go-mobile/form-login-GoogleSignIn/releases/84176177/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/u/9010948?v=4",
     "events_url": "https://api.github.com/users/quentinmarciset/events{/privacy}",
@@ -57,18 +57,18 @@
     "url": "https://api.github.com/users/quentinmarciset"
   },
   "body": "",
-  "created_at": "2022-09-02T11:29:51Z",
+  "created_at": "2022-11-25T11:28:27Z",
   "draft": false,
-  "html_url": "https://github.com/4d-go-mobile/form-detail-TasksPlus/releases/tag/0.1.12",
-  "id": 76139514,
-  "name": "🖌️ Material 3",
-  "node_id": "RE_kwDOFKHIQs4Eicv6",
+  "html_url": "https://github.com/4d-go-mobile/form-login-GoogleSignIn/releases/tag/0.0.3",
+  "id": 84176177,
+  "name": "👷‍♂️ Improvements",
+  "node_id": "RE_kwDOIgCbyM4FBG0x",
   "prerelease": false,
-  "published_at": "2022-09-02T11:30:22Z",
-  "tag_name": "0.1.12",
-  "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/tarball/0.1.12",
-  "target_commitish": "master",
-  "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-detail-TasksPlus/releases/76139514/assets{?name,label}",
-  "url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/releases/76139514",
-  "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TasksPlus/zipball/0.1.12"
+  "published_at": "2022-11-25T11:43:04Z",
+  "tag_name": "0.0.3",
+  "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-login-GoogleSignIn/tarball/0.0.3",
+  "target_commitish": "main",
+  "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-login-GoogleSignIn/releases/84176177/assets{?name,label}",
+  "url": "https://api.github.com/repos/4d-go-mobile/form-login-GoogleSignIn/releases/84176177",
+  "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-login-GoogleSignIn/zipball/0.0.3"
 }

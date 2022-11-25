@@ -26,8 +26,8 @@
   "downloads_url": "https://api.github.com/repos/mesopelagique/form-login-SignInWithQRCode/downloads",
   "events_url": "https://api.github.com/repos/mesopelagique/form-login-SignInWithQRCode/events",
   "fork": false,
-  "forks": 0,
-  "forks_count": 0,
+  "forks": 1,
+  "forks_count": 1,
   "forks_url": "https://api.github.com/repos/mesopelagique/form-login-SignInWithQRCode/forks",
   "full_name": "mesopelagique/form-login-SignInWithQRCode",
   "git_commits_url": "https://api.github.com/repos/mesopelagique/form-login-SignInWithQRCode/git/commits{/sha}",
@@ -65,7 +65,7 @@
   "milestones_url": "https://api.github.com/repos/mesopelagique/form-login-SignInWithQRCode/milestones{/number}",
   "mirror_url": null,
   "name": "form-login-SignInWithQRCode",
-  "network_count": 0,
+  "network_count": 1,
   "node_id": "MDEwOlJlcG9zaXRvcnkzMjYyMTU2NTE=",
   "notifications_url": "https://api.github.com/repos/mesopelagique/form-login-SignInWithQRCode/notifications{?since,all,participating}",
   "open_issues": 2,
@@ -99,7 +99,7 @@
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/mesopelagique/form-login-SignInWithQRCode/pulls{/number}",
-  "pushed_at": "2021-07-27T15:06:36Z",
+  "pushed_at": "2022-11-25T12:15:00Z",
   "release": {
     "assets": [
       {
@@ -179,7 +179,7 @@
   "squash_merge_commit_message": "COMMIT_MESSAGES",
   "squash_merge_commit_title": "COMMIT_OR_PR_TITLE",
   "ssh_url": "git@github.com:mesopelagique/form-login-SignInWithQRCode.git",
-  "stargazers_count": 1,
+  "stargazers_count": 2,
   "stargazers_url": "https://api.github.com/repos/mesopelagique/form-login-SignInWithQRCode/stargazers",
   "statuses_url": "https://api.github.com/repos/mesopelagique/form-login-SignInWithQRCode/statuses/{sha}",
   "subscribers_count": 1,
@@ -194,11 +194,11 @@
     "4d-for-ios-form-login"
   ],
   "trees_url": "https://api.github.com/repos/mesopelagique/form-login-SignInWithQRCode/git/trees{/sha}",
-  "updated_at": "2022-02-14T13:38:21Z",
+  "updated_at": "2022-11-25T12:17:45Z",
   "url": "https://api.github.com/repos/mesopelagique/form-login-SignInWithQRCode",
   "use_squash_pr_title_as_default": false,
   "visibility": "public",
-  "watchers": 1,
-  "watchers_count": 1,
+  "watchers": 2,
+  "watchers_count": 2,
   "web_commit_signoff_required": false
 }
