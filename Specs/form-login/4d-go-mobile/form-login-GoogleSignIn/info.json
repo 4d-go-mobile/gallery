@@ -68,8 +68,8 @@
   "network_count": 0,
   "node_id": "R_kgDOIgCbyA",
   "notifications_url": "https://api.github.com/repos/4d-go-mobile/form-login-GoogleSignIn/notifications{?since,all,participating}",
-  "open_issues": 1,
-  "open_issues_count": 1,
+  "open_issues": 0,
+  "open_issues_count": 0,
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/79459282?v=4",
     "events_url": "https://api.github.com/users/4d-go-mobile/events{/privacy}",
@@ -119,7 +119,7 @@
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/4d-go-mobile/form-login-GoogleSignIn/pulls{/number}",
-  "pushed_at": "2022-11-26T08:41:38Z",
+  "pushed_at": "2022-11-28T08:01:41Z",
   "release": {
     "assets": [
       {
@@ -195,7 +195,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-login-GoogleSignIn/zipball/0.0.3"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-login-GoogleSignIn/releases{/id}",
-  "size": 22,
+  "size": 23,
   "squash_merge_commit_message": "COMMIT_MESSAGES",
   "squash_merge_commit_title": "COMMIT_OR_PR_TITLE",
   "ssh_url": "git@github.com:4d-go-mobile/form-login-GoogleSignIn.git",
