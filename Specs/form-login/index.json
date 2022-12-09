@@ -14,7 +14,7 @@
     {
       "author": "mesopelagique",
       "description": "Sign with a qr code provided by web site or desktop app",
-      "download_count": 7,
+      "download_count": 8,
       "download_url": "https://github.com/mesopelagique/form-login-SignInWithQRCode/releases/download/0.1.0/form-login-SignInWithQRCode.zip",
       "html_url": "https://github.com/mesopelagique/form-login-SignInWithQRCode",
       "name": "signinwithqrcode",
@@ -29,7 +29,7 @@
     {
       "author": "4d-go-mobile",
       "description": "",
-      "download_count": 2,
+      "download_count": 4,
       "download_url": "https://github.com/4d-go-mobile/form-login-GoogleSignIn/releases/download/0.0.4/form-login-GoogleSignIn.zip",
       "html_url": "https://github.com/4d-go-mobile/form-login-GoogleSignIn",
       "name": "googlesignin",
