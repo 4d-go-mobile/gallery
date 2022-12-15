@@ -3,7 +3,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Sign in with apple",
-      "download_count": 9,
+      "download_count": 10,
       "download_url": "https://github.com/4d-go-mobile/form-login-SignInWithApple/releases/download/0.3.0/form-login-SignInWithApple.zip",
       "html_url": "https://github.com/4d-go-mobile/form-login-SignInWithApple",
       "name": "signinwithapple",
@@ -14,7 +14,7 @@
     {
       "author": "mesopelagique",
       "description": "Sign with a qr code provided by web site or desktop app",
-      "download_count": 8,
+      "download_count": 12,
       "download_url": "https://github.com/mesopelagique/form-login-SignInWithQRCode/releases/download/0.1.0/form-login-SignInWithQRCode.zip",
       "html_url": "https://github.com/mesopelagique/form-login-SignInWithQRCode",
       "name": "signinwithqrcode",
@@ -30,12 +30,12 @@
       "author": "4d-go-mobile",
       "description": "",
       "download_count": 0,
-      "download_url": "https://github.com/4d-go-mobile/form-login-GoogleSignIn/releases/download/0.0.5/form-login-GoogleSignIn.zip",
+      "download_url": "https://github.com/4d-go-mobile/form-login-GoogleSignIn/releases/download/0.0.6/form-login-GoogleSignIn.zip",
       "html_url": "https://github.com/4d-go-mobile/form-login-GoogleSignIn",
       "name": "googlesignin",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-login-GoogleSignIn/stargazers",
-      "version": "0.0.5"
+      "version": "0.0.6"
     }
   ]
 }

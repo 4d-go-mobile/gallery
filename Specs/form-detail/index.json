@@ -52,7 +52,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 11,
+      "download_count": 12,
       "download_url": "https://github.com/4d-go-mobile/form-detail-Dashboard/releases/download/0.2.1/form-detail-Dashboard.zip",
       "html_url": "https://github.com/4d-go-mobile/form-detail-Dashboard",
       "image_url": "Specs/form-detail/4d-go-mobile/form-detail-Dashboard/0.2.1/logo.png",
@@ -134,7 +134,7 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 7,
+      "download_count": 8,
       "download_url": "https://github.com/4d-go-mobile/form-detail-ParallaxHeader/releases/download/0.1.9/form-detail-ParallaxHeader.zip",
       "html_url": "https://github.com/4d-go-mobile/form-detail-ParallaxHeader",
       "image_url": "Specs/form-detail/4d-go-mobile/form-detail-ParallaxHeader/0.1.9/logo.png",
@@ -284,18 +284,18 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 5,
-      "download_url": "https://github.com/4d-go-mobile/form-detail-TripleCircle/releases/download/0.1.2/form-detail-TripleCircle.zip",
+      "download_count": 2,
+      "download_url": "https://github.com/4d-go-mobile/form-detail-TripleCircle/releases/download/0.1.1/form-detail-TripleCircle.zip",
       "html_url": "https://github.com/4d-go-mobile/form-detail-TripleCircle",
-      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-TripleCircle/0.1.2/logo.png",
+      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-TripleCircle/0.1.1/logo.png",
       "name": "Triple Circle",
-      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-TripleCircle/0.1.2/preview.gif",
+      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-TripleCircle/0.1.1/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TripleCircle/stargazers",
       "target": [
         "ios"
       ],
-      "version": "0.1.2"
+      "version": "0.1.1"
     },
     {
       "author": "4d-go-mobile",
