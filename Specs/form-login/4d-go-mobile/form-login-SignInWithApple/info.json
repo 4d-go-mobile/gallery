@@ -195,6 +195,14 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-login-SignInWithApple/zipball/0.3.0"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-login-SignInWithApple/releases{/id}",
+  "security_and_analysis": {
+    "secret_scanning": {
+      "status": "disabled"
+    },
+    "secret_scanning_push_protection": {
+      "status": "disabled"
+    }
+  },
   "size": 32,
   "squash_merge_commit_message": "COMMIT_MESSAGES",
   "squash_merge_commit_title": "COMMIT_OR_PR_TITLE",

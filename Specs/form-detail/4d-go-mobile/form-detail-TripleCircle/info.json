@@ -233,17 +233,17 @@
   "release": {
     "assets": [
       {
-        "browser_download_url": "https://github.com/4d-go-mobile/form-detail-TripleCircle/releases/download/0.1.1/form-detail-TripleCircle.zip",
+        "browser_download_url": "https://github.com/4d-go-mobile/form-detail-TripleCircle/releases/download/0.1.2/form-detail-TripleCircle.zip",
         "content_type": "application/zip",
-        "created_at": "2021-09-17T12:32:08Z",
-        "download_count": 2,
-        "id": 45012951,
+        "created_at": "2021-09-23T10:27:24Z",
+        "download_count": 5,
+        "id": 45440375,
         "label": "",
         "name": "form-detail-TripleCircle.zip",
-        "node_id": "RA_kwDOFKHINM4CrtfX",
-        "size": 472321,
+        "node_id": "RA_kwDOFKHINM4CtV13",
+        "size": 472336,
         "state": "uploaded",
-        "updated_at": "2021-09-17T12:32:09Z",
+        "updated_at": "2021-09-23T10:27:25Z",
         "uploader": {
           "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
           "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -264,10 +264,10 @@
           "type": "Bot",
           "url": "https://api.github.com/users/github-actions%5Bbot%5D"
         },
-        "url": "https://api.github.com/repos/4d-go-mobile/form-detail-TripleCircle/releases/assets/45012951"
+        "url": "https://api.github.com/repos/4d-go-mobile/form-detail-TripleCircle/releases/assets/45440375"
       }
     ],
-    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TripleCircle/releases/49743475/assets",
+    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TripleCircle/releases/50119940/assets",
     "author": {
       "avatar_url": "https://avatars.githubusercontent.com/u/59135882?v=4",
       "events_url": "https://api.github.com/users/mesopelagique/events{/privacy}",
@@ -288,23 +288,31 @@
       "type": "User",
       "url": "https://api.github.com/users/mesopelagique"
     },
-    "body": "Minor color fix",
-    "created_at": "2021-09-17T11:41:02Z",
+    "body": "iOS 15 nav bar background color fix",
+    "created_at": "2021-09-23T09:42:12Z",
     "draft": false,
-    "html_url": "https://github.com/4d-go-mobile/form-detail-TripleCircle/releases/tag/0.1.1",
-    "id": 49743475,
+    "html_url": "https://github.com/4d-go-mobile/form-detail-TripleCircle/releases/tag/0.1.2",
+    "id": 50119940,
     "name": null,
-    "node_id": "RE_kwDOFKHINM4C9wZz",
+    "node_id": "RE_kwDOFKHINM4C_MUE",
     "prerelease": false,
-    "published_at": "2021-09-17T12:09:02Z",
-    "tag_name": "0.1.1",
-    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TripleCircle/tarball/0.1.1",
+    "published_at": "2021-09-23T10:02:12Z",
+    "tag_name": "0.1.2",
+    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TripleCircle/tarball/0.1.2",
     "target_commitish": "master",
-    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-detail-TripleCircle/releases/49743475/assets{?name,label}",
-    "url": "https://api.github.com/repos/4d-go-mobile/form-detail-TripleCircle/releases/49743475",
-    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TripleCircle/zipball/0.1.1"
+    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-detail-TripleCircle/releases/50119940/assets{?name,label}",
+    "url": "https://api.github.com/repos/4d-go-mobile/form-detail-TripleCircle/releases/50119940",
+    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TripleCircle/zipball/0.1.2"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TripleCircle/releases{/id}",
+  "security_and_analysis": {
+    "secret_scanning": {
+      "status": "disabled"
+    },
+    "secret_scanning_push_protection": {
+      "status": "disabled"
+    }
+  },
   "size": 482,
   "source": {
     "allow_forking": true,

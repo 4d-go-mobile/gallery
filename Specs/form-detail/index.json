@@ -284,18 +284,18 @@
     {
       "author": "4d-go-mobile",
       "description": "4D Mobile Detail Form template",
-      "download_count": 2,
-      "download_url": "https://github.com/4d-go-mobile/form-detail-TripleCircle/releases/download/0.1.1/form-detail-TripleCircle.zip",
+      "download_count": 5,
+      "download_url": "https://github.com/4d-go-mobile/form-detail-TripleCircle/releases/download/0.1.2/form-detail-TripleCircle.zip",
       "html_url": "https://github.com/4d-go-mobile/form-detail-TripleCircle",
-      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-TripleCircle/0.1.1/logo.png",
+      "image_url": "Specs/form-detail/4d-go-mobile/form-detail-TripleCircle/0.1.2/logo.png",
       "name": "Triple Circle",
-      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-TripleCircle/0.1.1/preview.gif",
+      "preview_url": "Specs/form-detail/4d-go-mobile/form-detail-TripleCircle/0.1.2/preview.gif",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-detail-TripleCircle/stargazers",
       "target": [
         "ios"
       ],
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     {
       "author": "4d-go-mobile",

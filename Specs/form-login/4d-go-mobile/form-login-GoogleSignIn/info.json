@@ -126,7 +126,7 @@
         "browser_download_url": "https://github.com/4d-go-mobile/form-login-GoogleSignIn/releases/download/0.0.6/form-login-GoogleSignIn.zip",
         "content_type": "application/zip",
         "created_at": "2022-12-15T13:15:16Z",
-        "download_count": 0,
+        "download_count": 2,
         "id": 88311959,
         "label": "",
         "name": "form-login-GoogleSignIn.zip",
@@ -195,7 +195,15 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-login-GoogleSignIn/zipball/0.0.6"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-login-GoogleSignIn/releases{/id}",
-  "size": 37,
+  "security_and_analysis": {
+    "secret_scanning": {
+      "status": "disabled"
+    },
+    "secret_scanning_push_protection": {
+      "status": "disabled"
+    }
+  },
+  "size": 38,
   "squash_merge_commit_message": "COMMIT_MESSAGES",
   "squash_merge_commit_title": "COMMIT_OR_PR_TITLE",
   "ssh_url": "git@github.com:4d-go-mobile/form-login-GoogleSignIn.git",

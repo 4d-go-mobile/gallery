@@ -305,6 +305,14 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SlantedCollection/zipball/0.4.0"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-SlantedCollection/releases{/id}",
+  "security_and_analysis": {
+    "secret_scanning": {
+      "status": "disabled"
+    },
+    "secret_scanning_push_protection": {
+      "status": "disabled"
+    }
+  },
   "size": 49632,
   "source": {
     "allow_forking": true,

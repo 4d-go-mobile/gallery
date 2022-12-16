@@ -305,6 +305,14 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-Circle/zipball/0.1.2"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-detail-Circle/releases{/id}",
+  "security_and_analysis": {
+    "secret_scanning": {
+      "status": "disabled"
+    },
+    "secret_scanning_push_protection": {
+      "status": "disabled"
+    }
+  },
   "size": 535,
   "source": {
     "allow_forking": true,

@@ -195,6 +195,14 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/formatter-BoolToImage/zipball/0.0.2"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/formatter-BoolToImage/releases{/id}",
+  "security_and_analysis": {
+    "secret_scanning": {
+      "status": "disabled"
+    },
+    "secret_scanning_push_protection": {
+      "status": "disabled"
+    }
+  },
   "size": 68,
   "squash_merge_commit_message": "COMMIT_MESSAGES",
   "squash_merge_commit_title": "COMMIT_OR_PR_TITLE",

@@ -305,6 +305,14 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-InvoiceList/zipball/0.1.6"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-InvoiceList/releases{/id}",
+  "security_and_analysis": {
+    "secret_scanning": {
+      "status": "disabled"
+    },
+    "secret_scanning_push_protection": {
+      "status": "disabled"
+    }
+  },
   "size": 2335,
   "source": {
     "allow_forking": true,
