@@ -3,7 +3,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Open the map app with the selected address",
-      "download_count": 4,
+      "download_count": 5,
       "download_url": "https://github.com/4d-go-mobile/formatter-Address/releases/download/0.1.1/formatter-Address.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Address",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-Address/0.1.1/logo.png",
@@ -87,7 +87,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Open the mail application",
-      "download_count": 12,
+      "download_count": 13,
       "download_url": "https://github.com/4d-go-mobile/formatter-Mail/releases/download/0.1.0/formatter-Mail.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Mail",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-Mail/0.1.0/logo.png",
@@ -103,7 +103,7 @@
     {
       "author": "4d-go-mobile",
       "description": "When a phone number is clicked, open a menu to call the number or add a contact",
-      "download_count": 12,
+      "download_count": 13,
       "download_url": "https://github.com/4d-go-mobile/formatter-Phone/releases/download/0.1.0/formatter-Phone.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Phone",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-Phone/0.1.0/logo.png",
@@ -145,7 +145,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Open a URL in external web view",
-      "download_count": 7,
+      "download_count": 8,
       "download_url": "https://github.com/4d-go-mobile/formatter-Url/releases/download/0.1.0/formatter-Url.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Url",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-Url/0.1.0/logo.png",
@@ -161,7 +161,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Download URL and open activity form to let the user choose what to do with the file",
-      "download_count": 3,
+      "download_count": 4,
       "download_url": "https://github.com/4d-go-mobile/formatter-DownloadActivity/releases/download/0.1.1/formatter-DownloadActivity.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-DownloadActivity",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-DownloadActivity/0.1.1/logo.png",
@@ -177,7 +177,7 @@
     {
       "author": "mesopelagique",
       "description": "Open url into internal app web browser",
-      "download_count": 10,
+      "download_count": 11,
       "download_url": "https://github.com/mesopelagique/formatter-UrlInApp/releases/download/0.0.2/formatter-UrlInApp.zip",
       "html_url": "https://github.com/mesopelagique/formatter-UrlInApp",
       "image_url": "Specs/formatter/mesopelagique/formatter-UrlInApp/0.0.2/logo.png",
