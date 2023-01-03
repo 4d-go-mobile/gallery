@@ -18,7 +18,7 @@
   "contents_url": "https://api.github.com/repos/4d-go-mobile/formatter-BoolToImage/contents/{+path}",
   "contributors_url": "https://api.github.com/repos/4d-go-mobile/formatter-BoolToImage/contributors",
   "created_at": "2019-06-05T12:46:18Z",
-  "default_branch": "main",
+  "default_branch": "master",
   "delete_branch_on_merge": false,
   "deployments_url": "https://api.github.com/repos/4d-go-mobile/formatter-BoolToImage/deployments",
   "description": "Bind a bool to an image, (🔴 for False, 🟢 for True)",
