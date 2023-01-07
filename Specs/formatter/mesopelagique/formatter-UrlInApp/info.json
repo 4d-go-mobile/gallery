@@ -286,6 +286,14 @@
     "zipball_url": "https://api.github.com/repos/mesopelagique/formatter-UrlInApp/zipball/0.0.2"
   },
   "releases_url": "https://api.github.com/repos/mesopelagique/formatter-UrlInApp/releases{/id}",
+  "security_and_analysis": {
+    "secret_scanning": {
+      "status": "disabled"
+    },
+    "secret_scanning_push_protection": {
+      "status": "disabled"
+    }
+  },
   "size": 73,
   "source": {
     "allow_forking": true,
