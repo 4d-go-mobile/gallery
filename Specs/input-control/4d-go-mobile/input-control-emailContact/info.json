@@ -126,7 +126,7 @@
         "browser_download_url": "https://github.com/4d-go-mobile/input-control-emailContact/releases/download/0.1.2/input-control-emailContact.zip",
         "content_type": "application/zip",
         "created_at": "2022-10-14T12:50:30Z",
-        "download_count": 9,
+        "download_count": 10,
         "id": 81012696,
         "label": "",
         "name": "input-control-emailContact.zip",
@@ -195,6 +195,14 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/input-control-emailContact/zipball/0.1.2"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/input-control-emailContact/releases{/id}",
+  "security_and_analysis": {
+    "secret_scanning": {
+      "status": "disabled"
+    },
+    "secret_scanning_push_protection": {
+      "status": "disabled"
+    }
+  },
   "size": 611,
   "squash_merge_commit_message": "COMMIT_MESSAGES",
   "squash_merge_commit_title": "COMMIT_OR_PR_TITLE",

@@ -236,7 +236,7 @@
         "browser_download_url": "https://github.com/4d-go-mobile/form-list-ClientList/releases/download/0.1.7/form-list-ClientList.zip",
         "content_type": "application/zip",
         "created_at": "2022-09-09T07:29:27Z",
-        "download_count": 14,
+        "download_count": 18,
         "id": 77327905,
         "label": "",
         "name": "form-list-ClientList.zip",
@@ -305,6 +305,14 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-ClientList/zipball/0.1.7"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-ClientList/releases{/id}",
+  "security_and_analysis": {
+    "secret_scanning": {
+      "status": "disabled"
+    },
+    "secret_scanning_push_protection": {
+      "status": "disabled"
+    }
+  },
   "size": 2290,
   "source": {
     "allow_forking": true,

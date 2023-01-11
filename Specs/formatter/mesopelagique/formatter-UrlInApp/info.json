@@ -217,7 +217,7 @@
         "browser_download_url": "https://github.com/mesopelagique/formatter-UrlInApp/releases/download/0.0.2/formatter-UrlInApp.zip",
         "content_type": "application/zip",
         "created_at": "2021-07-11T19:20:19Z",
-        "download_count": 10,
+        "download_count": 12,
         "id": 40101366,
         "label": "",
         "name": "formatter-UrlInApp.zip",
@@ -286,6 +286,14 @@
     "zipball_url": "https://api.github.com/repos/mesopelagique/formatter-UrlInApp/zipball/0.0.2"
   },
   "releases_url": "https://api.github.com/repos/mesopelagique/formatter-UrlInApp/releases{/id}",
+  "security_and_analysis": {
+    "secret_scanning": {
+      "status": "disabled"
+    },
+    "secret_scanning_push_protection": {
+      "status": "disabled"
+    }
+  },
   "size": 73,
   "source": {
     "allow_forking": true,

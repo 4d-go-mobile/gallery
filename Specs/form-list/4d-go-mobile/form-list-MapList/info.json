@@ -229,21 +229,21 @@
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/4d-go-mobile/form-list-MapList/pulls{/number}",
-  "pushed_at": "2022-12-09T14:44:10Z",
+  "pushed_at": "2023-01-11T14:44:42Z",
   "release": {
     "assets": [
       {
-        "browser_download_url": "https://github.com/4d-go-mobile/form-list-MapList/releases/download/0.1.1/form-list-MapList.zip",
+        "browser_download_url": "https://github.com/4d-go-mobile/form-list-MapList/releases/download/0.1.2/form-list-MapList.zip",
         "content_type": "application/zip",
-        "created_at": "2022-12-09T14:44:33Z",
-        "download_count": 1,
-        "id": 87601785,
+        "created_at": "2023-01-11T14:53:42Z",
+        "download_count": 0,
+        "id": 91304640,
         "label": "",
         "name": "form-list-MapList.zip",
-        "node_id": "RA_kwDOFKHHEM4FOLJ5",
-        "size": 2511356,
+        "node_id": "RA_kwDOFKHHEM4FcTLA",
+        "size": 2511371,
         "state": "uploaded",
-        "updated_at": "2022-12-09T14:44:33Z",
+        "updated_at": "2023-01-11T14:53:42Z",
         "uploader": {
           "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
           "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -264,10 +264,10 @@
           "type": "Bot",
           "url": "https://api.github.com/users/github-actions%5Bbot%5D"
         },
-        "url": "https://api.github.com/repos/4d-go-mobile/form-list-MapList/releases/assets/87601785"
+        "url": "https://api.github.com/repos/4d-go-mobile/form-list-MapList/releases/assets/91304640"
       }
     ],
-    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-list-MapList/releases/85565898/assets",
+    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-list-MapList/releases/88596695/assets",
     "author": {
       "avatar_url": "https://avatars.githubusercontent.com/u/9010948?v=4",
       "events_url": "https://api.github.com/users/quentinmarciset/events{/privacy}",
@@ -289,22 +289,30 @@
       "url": "https://api.github.com/users/quentinmarciset"
     },
     "body": "",
-    "created_at": "2022-12-09T14:42:59Z",
+    "created_at": "2023-01-11T14:44:26Z",
     "draft": false,
-    "html_url": "https://github.com/4d-go-mobile/form-list-MapList/releases/tag/0.1.1",
-    "id": 85565898,
-    "name": "🤖 Android version",
-    "node_id": "RE_kwDOFKHHEM4FGaHK",
+    "html_url": "https://github.com/4d-go-mobile/form-list-MapList/releases/tag/0.1.2",
+    "id": 88596695,
+    "name": "👷‍♂️ Adjustments",
+    "node_id": "RE_kwDOFKHHEM4FR-DX",
     "prerelease": false,
-    "published_at": "2022-12-09T14:44:10Z",
-    "tag_name": "0.1.1",
-    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-list-MapList/tarball/0.1.1",
+    "published_at": "2023-01-11T14:44:42Z",
+    "tag_name": "0.1.2",
+    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-list-MapList/tarball/0.1.2",
     "target_commitish": "master",
-    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-list-MapList/releases/85565898/assets{?name,label}",
-    "url": "https://api.github.com/repos/4d-go-mobile/form-list-MapList/releases/85565898",
-    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-MapList/zipball/0.1.1"
+    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-list-MapList/releases/88596695/assets{?name,label}",
+    "url": "https://api.github.com/repos/4d-go-mobile/form-list-MapList/releases/88596695",
+    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-MapList/zipball/0.1.2"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-MapList/releases{/id}",
+  "security_and_analysis": {
+    "secret_scanning": {
+      "status": "disabled"
+    },
+    "secret_scanning_push_protection": {
+      "status": "disabled"
+    }
+  },
   "size": 2484,
   "source": {
     "allow_forking": true,

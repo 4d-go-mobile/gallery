@@ -236,7 +236,7 @@
         "browser_download_url": "https://github.com/4d-go-mobile/form-detail-ClientDetail/releases/download/0.1.2/form-detail-ClientDetail.zip",
         "content_type": "application/zip",
         "created_at": "2021-09-23T10:35:24Z",
-        "download_count": 21,
+        "download_count": 24,
         "id": 45440923,
         "label": "",
         "name": "form-detail-ClientDetail.zip",
@@ -305,6 +305,14 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-ClientDetail/zipball/0.1.2"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-detail-ClientDetail/releases{/id}",
+  "security_and_analysis": {
+    "secret_scanning": {
+      "status": "disabled"
+    },
+    "secret_scanning_push_protection": {
+      "status": "disabled"
+    }
+  },
   "size": 200,
   "source": {
     "allow_forking": true,

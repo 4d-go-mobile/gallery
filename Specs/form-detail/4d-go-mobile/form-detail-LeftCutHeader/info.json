@@ -236,7 +236,7 @@
         "browser_download_url": "https://github.com/4d-go-mobile/form-detail-LeftCutHeader/releases/download/0.2.0/form-detail-LeftCutHeader.zip",
         "content_type": "application/zip",
         "created_at": "2022-09-02T12:21:22Z",
-        "download_count": 3,
+        "download_count": 5,
         "id": 76669412,
         "label": "",
         "name": "form-detail-LeftCutHeader.zip",
@@ -305,6 +305,14 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/zipball/0.2.0"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/releases{/id}",
+  "security_and_analysis": {
+    "secret_scanning": {
+      "status": "disabled"
+    },
+    "secret_scanning_push_protection": {
+      "status": "disabled"
+    }
+  },
   "size": 1140,
   "source": {
     "allow_forking": true,

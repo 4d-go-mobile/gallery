@@ -236,7 +236,7 @@
         "browser_download_url": "https://github.com/4d-go-mobile/form-list-SmoothTable/releases/download/0.1.10/form-list-SmoothTable.zip",
         "content_type": "application/zip",
         "created_at": "2022-10-26T13:48:28Z",
-        "download_count": 3,
+        "download_count": 8,
         "id": 82337113,
         "label": "",
         "name": "form-list-SmoothTable.zip",
@@ -305,6 +305,14 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/zipball/0.1.10"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-SmoothTable/releases{/id}",
+  "security_and_analysis": {
+    "secret_scanning": {
+      "status": "disabled"
+    },
+    "secret_scanning_push_protection": {
+      "status": "disabled"
+    }
+  },
   "size": 1009,
   "source": {
     "allow_forking": true,

@@ -236,7 +236,7 @@
         "browser_download_url": "https://github.com/4d-go-mobile/form-list-TasksCollection/releases/download/0.1.0/form-list-TasksCollection.zip",
         "content_type": "application/zip",
         "created_at": "2021-03-11T15:26:12Z",
-        "download_count": 10,
+        "download_count": 11,
         "id": 33327282,
         "label": "",
         "name": "form-list-TasksCollection.zip",
@@ -305,6 +305,14 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-TasksCollection/zipball/0.1.0"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-TasksCollection/releases{/id}",
+  "security_and_analysis": {
+    "secret_scanning": {
+      "status": "disabled"
+    },
+    "secret_scanning_push_protection": {
+      "status": "disabled"
+    }
+  },
   "size": 1701,
   "source": {
     "allow_forking": true,

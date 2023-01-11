@@ -229,21 +229,21 @@
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleCollection/pulls{/number}",
-  "pushed_at": "2022-09-02T11:21:27Z",
+  "pushed_at": "2023-01-11T14:44:54Z",
   "release": {
     "assets": [
       {
-        "browser_download_url": "https://github.com/4d-go-mobile/form-list-SimpleCollection/releases/download/0.1.7/form-list-SimpleCollection.zip",
+        "browser_download_url": "https://github.com/4d-go-mobile/form-list-SimpleCollection/releases/download/0.1.8/form-list-SimpleCollection.zip",
         "content_type": "application/zip",
-        "created_at": "2022-09-02T12:18:41Z",
-        "download_count": 5,
-        "id": 76669248,
+        "created_at": "2023-01-11T14:58:58Z",
+        "download_count": 0,
+        "id": 91305227,
         "label": "",
         "name": "form-list-SimpleCollection.zip",
-        "node_id": "RA_kwDOFKHHFM4EkeFA",
-        "size": 4266093,
+        "node_id": "RA_kwDOFKHHFM4FcTUL",
+        "size": 4266105,
         "state": "uploaded",
-        "updated_at": "2022-09-02T12:18:41Z",
+        "updated_at": "2023-01-11T14:58:58Z",
         "uploader": {
           "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
           "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -264,10 +264,10 @@
           "type": "Bot",
           "url": "https://api.github.com/users/github-actions%5Bbot%5D"
         },
-        "url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleCollection/releases/assets/76669248"
+        "url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleCollection/releases/assets/91305227"
       }
     ],
-    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleCollection/releases/76138639/assets",
+    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleCollection/releases/88596715/assets",
     "author": {
       "avatar_url": "https://avatars.githubusercontent.com/u/9010948?v=4",
       "events_url": "https://api.github.com/users/quentinmarciset/events{/privacy}",
@@ -289,22 +289,30 @@
       "url": "https://api.github.com/users/quentinmarciset"
     },
     "body": "",
-    "created_at": "2022-09-02T11:21:10Z",
+    "created_at": "2023-01-11T14:44:23Z",
     "draft": false,
-    "html_url": "https://github.com/4d-go-mobile/form-list-SimpleCollection/releases/tag/0.1.7",
-    "id": 76138639,
-    "name": "🖌️ Material 3",
-    "node_id": "RE_kwDOFKHHFM4EiciP",
+    "html_url": "https://github.com/4d-go-mobile/form-list-SimpleCollection/releases/tag/0.1.8",
+    "id": 88596715,
+    "name": "👷‍♂️ Adjustments",
+    "node_id": "RE_kwDOFKHHFM4FR-Dr",
     "prerelease": false,
-    "published_at": "2022-09-02T11:21:27Z",
-    "tag_name": "0.1.7",
-    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleCollection/tarball/0.1.7",
+    "published_at": "2023-01-11T14:44:54Z",
+    "tag_name": "0.1.8",
+    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleCollection/tarball/0.1.8",
     "target_commitish": "master",
-    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-list-SimpleCollection/releases/76138639/assets{?name,label}",
-    "url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleCollection/releases/76138639",
-    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleCollection/zipball/0.1.7"
+    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-list-SimpleCollection/releases/88596715/assets{?name,label}",
+    "url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleCollection/releases/88596715",
+    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleCollection/zipball/0.1.8"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-SimpleCollection/releases{/id}",
+  "security_and_analysis": {
+    "secret_scanning": {
+      "status": "disabled"
+    },
+    "secret_scanning_push_protection": {
+      "status": "disabled"
+    }
+  },
   "size": 4176,
   "source": {
     "allow_forking": true,

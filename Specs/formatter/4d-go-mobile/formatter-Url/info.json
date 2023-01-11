@@ -126,7 +126,7 @@
         "browser_download_url": "https://github.com/4d-go-mobile/formatter-Url/releases/download/0.1.0/formatter-Url.zip",
         "content_type": "application/zip",
         "created_at": "2022-03-08T11:12:48Z",
-        "download_count": 7,
+        "download_count": 9,
         "id": 58888610,
         "label": "",
         "name": "formatter-Url.zip",
@@ -195,6 +195,14 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/formatter-Url/zipball/0.1.0"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/formatter-Url/releases{/id}",
+  "security_and_analysis": {
+    "secret_scanning": {
+      "status": "disabled"
+    },
+    "secret_scanning_push_protection": {
+      "status": "disabled"
+    }
+  },
   "size": 32,
   "squash_merge_commit_message": "COMMIT_MESSAGES",
   "squash_merge_commit_title": "COMMIT_OR_PR_TITLE",

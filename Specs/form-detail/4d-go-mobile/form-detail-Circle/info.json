@@ -236,7 +236,7 @@
         "browser_download_url": "https://github.com/4d-go-mobile/form-detail-Circle/releases/download/0.1.2/form-detail-Circle.zip",
         "content_type": "application/zip",
         "created_at": "2021-09-23T10:37:55Z",
-        "download_count": 7,
+        "download_count": 8,
         "id": 45441146,
         "label": "",
         "name": "form-detail-Circle.zip",
@@ -305,6 +305,14 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-Circle/zipball/0.1.2"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-detail-Circle/releases{/id}",
+  "security_and_analysis": {
+    "secret_scanning": {
+      "status": "disabled"
+    },
+    "secret_scanning_push_protection": {
+      "status": "disabled"
+    }
+  },
   "size": 535,
   "source": {
     "allow_forking": true,

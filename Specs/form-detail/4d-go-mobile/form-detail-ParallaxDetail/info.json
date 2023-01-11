@@ -236,7 +236,7 @@
         "browser_download_url": "https://github.com/4d-go-mobile/form-detail-ParallaxDetail/releases/download/0.1.2/form-detail-ParallaxDetail.zip",
         "content_type": "application/zip",
         "created_at": "2021-09-23T10:24:54Z",
-        "download_count": 10,
+        "download_count": 11,
         "id": 45440242,
         "label": "",
         "name": "form-detail-ParallaxDetail.zip",
@@ -305,6 +305,14 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-detail-ParallaxDetail/zipball/0.1.2"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-detail-ParallaxDetail/releases{/id}",
+  "security_and_analysis": {
+    "secret_scanning": {
+      "status": "disabled"
+    },
+    "secret_scanning_push_protection": {
+      "status": "disabled"
+    }
+  },
   "size": 1512,
   "source": {
     "allow_forking": true,
