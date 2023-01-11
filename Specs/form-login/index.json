@@ -3,7 +3,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Sign in with apple",
-      "download_count": 10,
+      "download_count": 11,
       "download_url": "https://github.com/4d-go-mobile/form-login-SignInWithApple/releases/download/0.3.0/form-login-SignInWithApple.zip",
       "html_url": "https://github.com/4d-go-mobile/form-login-SignInWithApple",
       "name": "signinwithapple",
@@ -14,7 +14,7 @@
     {
       "author": "mesopelagique",
       "description": "Sign with a qr code provided by web site or desktop app",
-      "download_count": 14,
+      "download_count": 15,
       "download_url": "https://github.com/mesopelagique/form-login-SignInWithQRCode/releases/download/0.1.0/form-login-SignInWithQRCode.zip",
       "html_url": "https://github.com/mesopelagique/form-login-SignInWithQRCode",
       "name": "signinwithqrcode",
