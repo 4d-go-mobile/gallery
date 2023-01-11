@@ -229,21 +229,21 @@
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/4d-go-mobile/form-list-InvoiceLineList/pulls{/number}",
-  "pushed_at": "2022-09-09T07:08:00Z",
+  "pushed_at": "2023-01-11T14:41:14Z",
   "release": {
     "assets": [
       {
-        "browser_download_url": "https://github.com/4d-go-mobile/form-list-InvoiceLineList/releases/download/0.1.6/form-list-InvoiceLineList.zip",
+        "browser_download_url": "https://github.com/4d-go-mobile/form-list-InvoiceLineList/releases/download/0.1.7/form-list-InvoiceLineList.zip",
         "content_type": "application/zip",
-        "created_at": "2022-09-09T07:31:07Z",
-        "download_count": 6,
-        "id": 77328078,
+        "created_at": "2023-01-11T14:53:07Z",
+        "download_count": 0,
+        "id": 91304571,
         "label": "",
         "name": "form-list-InvoiceLineList.zip",
-        "node_id": "RA_kwDOFKHHGs4Em-7O",
-        "size": 3405444,
+        "node_id": "RA_kwDOFKHHGs4FcTJ7",
+        "size": 3405463,
         "state": "uploaded",
-        "updated_at": "2022-09-09T07:31:08Z",
+        "updated_at": "2023-01-11T14:53:09Z",
         "uploader": {
           "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
           "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -264,10 +264,10 @@
           "type": "Bot",
           "url": "https://api.github.com/users/github-actions%5Bbot%5D"
         },
-        "url": "https://api.github.com/repos/4d-go-mobile/form-list-InvoiceLineList/releases/assets/77328078"
+        "url": "https://api.github.com/repos/4d-go-mobile/form-list-InvoiceLineList/releases/assets/91304571"
       }
     ],
-    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-list-InvoiceLineList/releases/76681270/assets",
+    "assets_url": "https://api.github.com/repos/4d-go-mobile/form-list-InvoiceLineList/releases/88596238/assets",
     "author": {
       "avatar_url": "https://avatars.githubusercontent.com/u/9010948?v=4",
       "events_url": "https://api.github.com/users/quentinmarciset/events{/privacy}",
@@ -289,20 +289,20 @@
       "url": "https://api.github.com/users/quentinmarciset"
     },
     "body": "",
-    "created_at": "2022-09-09T07:05:58Z",
+    "created_at": "2023-01-11T14:40:53Z",
     "draft": false,
-    "html_url": "https://github.com/4d-go-mobile/form-list-InvoiceLineList/releases/tag/0.1.6",
-    "id": 76681270,
-    "name": "🖌️ Material 3 + adjustments",
-    "node_id": "RE_kwDOFKHHGs4EkhA2",
+    "html_url": "https://github.com/4d-go-mobile/form-list-InvoiceLineList/releases/tag/0.1.7",
+    "id": 88596238,
+    "name": "👷‍♂️ Adjustments",
+    "node_id": "RE_kwDOFKHHGs4FR98O",
     "prerelease": false,
-    "published_at": "2022-09-09T07:08:00Z",
-    "tag_name": "0.1.6",
-    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-list-InvoiceLineList/tarball/0.1.6",
+    "published_at": "2023-01-11T14:41:14Z",
+    "tag_name": "0.1.7",
+    "tarball_url": "https://api.github.com/repos/4d-go-mobile/form-list-InvoiceLineList/tarball/0.1.7",
     "target_commitish": "master",
-    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-list-InvoiceLineList/releases/76681270/assets{?name,label}",
-    "url": "https://api.github.com/repos/4d-go-mobile/form-list-InvoiceLineList/releases/76681270",
-    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-InvoiceLineList/zipball/0.1.6"
+    "upload_url": "https://uploads.github.com/repos/4d-go-mobile/form-list-InvoiceLineList/releases/88596238/assets{?name,label}",
+    "url": "https://api.github.com/repos/4d-go-mobile/form-list-InvoiceLineList/releases/88596238",
+    "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-InvoiceLineList/zipball/0.1.7"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-InvoiceLineList/releases{/id}",
   "security_and_analysis": {
