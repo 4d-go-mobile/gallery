@@ -236,7 +236,7 @@
         "browser_download_url": "https://github.com/4d-go-mobile/form-list-FourLabelsList/releases/download/0.1.8/form-list-FourLabelsList.zip",
         "content_type": "application/zip",
         "created_at": "2023-01-11T15:30:54Z",
-        "download_count": 0,
+        "download_count": 1,
         "id": 91309572,
         "label": "",
         "name": "form-list-FourLabelsList.zip",
@@ -313,7 +313,7 @@
       "status": "disabled"
     }
   },
-  "size": 3068,
+  "size": 3071,
   "source": {
     "allow_forking": true,
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-list-FourLabelsList/{archive_format}{/ref}",

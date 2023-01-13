@@ -236,7 +236,7 @@
         "browser_download_url": "https://github.com/4d-go-mobile/form-list-FiveLabelsList/releases/download/0.1.11/form-list-FiveLabelsList.zip",
         "content_type": "application/zip",
         "created_at": "2023-01-11T15:02:10Z",
-        "download_count": 0,
+        "download_count": 2,
         "id": 91305583,
         "label": "",
         "name": "form-list-FiveLabelsList.zip",
@@ -313,7 +313,7 @@
       "status": "disabled"
     }
   },
-  "size": 1812,
+  "size": 1804,
   "source": {
     "allow_forking": true,
     "archive_url": "https://api.github.com/repos/4d-for-ios/form-list-FiveLabelsList/{archive_format}{/ref}",
