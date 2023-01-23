@@ -10,19 +10,19 @@
 
 ### Dev preview
 
-with live server 
+with live server
 
 ```bash
 % npm run dev  
 ```
 
-###  Build
+### Build
 
 ```bash
 % npm run build  
 ```
 
-output in `dist` directory. 
+output in `dist` directory.
 
 ## Build with?
 
@@ -40,6 +40,8 @@ see [package.json](package.json)
 _Configuring npm for use with GitHub Packages_
 https://help.github.com/en/github/managing-packages-with-github-packages/configuring-npm-for-use-with-github-packages
 
+> npm login --scope=@OWNER --auth-type=legacy --registry=https://npm.pkg.github.com
+
 need to add [GPR2_TOKEN](https://github.com/4d-go-mobile/gallery/settings/secrets/actions) with package registry access to this project
 
 ### css
@@ -47,6 +49,5 @@ need to add [GPR2_TOKEN](https://github.com/4d-go-mobile/gallery/settings/secret
 - [primer.css](https://primer.style/css/)
 
 ### Todo
- 
-- [ ] update website on Spec change because Spec data are now in github pages, and not on github website. Maybe with a user token?
 
+- [ ] update website on Spec change because Spec data are now in github pages, and not on github website. Maybe with a user token?
