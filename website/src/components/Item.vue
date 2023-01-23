@@ -144,9 +144,9 @@ export default {
         }
       }
       this.item.has_image = this.item.image_url != null;
-      if (this.item.target == null) {
+      if (this.item.target == null || this.item.target.length == 0) {
         this.item.ios = true;
-        this.item.android = false;
+        this.item.android = ((this.type == "formatter") || this.type == ("input-control"))
       } else {
         this.item.ios = this.item.target.includes("ios");
         this.item.android = this.item.target.includes("android");
