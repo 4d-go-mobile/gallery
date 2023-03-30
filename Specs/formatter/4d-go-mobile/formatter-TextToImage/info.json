@@ -1,10 +1,5 @@
 {
-  "allow_auto_merge": false,
   "allow_forking": true,
-  "allow_merge_commit": true,
-  "allow_rebase_merge": true,
-  "allow_squash_merge": true,
-  "allow_update_branch": false,
   "archive_url": "https://api.github.com/repos/4d-go-mobile/formatter-TextToImage/{archive_format}{/ref}",
   "archived": false,
   "assignees_url": "https://api.github.com/repos/4d-go-mobile/formatter-TextToImage/assignees{/user}",
@@ -19,7 +14,6 @@
   "contributors_url": "https://api.github.com/repos/4d-go-mobile/formatter-TextToImage/contributors",
   "created_at": "2019-06-05T12:35:41Z",
   "default_branch": "master",
-  "delete_branch_on_merge": false,
   "deployments_url": "https://api.github.com/repos/4d-go-mobile/formatter-TextToImage/deployments",
   "description": "Bind a text to an image (\"jean.png\" for Jean, \"laurent.png\" for Laurent, ... )",
   "disabled": false,
@@ -59,8 +53,6 @@
     "spdx_id": "NOASSERTION",
     "url": null
   },
-  "merge_commit_message": "PR_TITLE",
-  "merge_commit_title": "MERGE_MESSAGE",
   "merges_url": "https://api.github.com/repos/4d-go-mobile/formatter-TextToImage/merges",
   "milestones_url": "https://api.github.com/repos/4d-go-mobile/formatter-TextToImage/milestones{/number}",
   "mirror_url": null,
@@ -111,11 +103,11 @@
     "url": "https://api.github.com/users/4d-go-mobile"
   },
   "permissions": {
-    "admin": true,
-    "maintain": true,
+    "admin": false,
+    "maintain": false,
     "pull": true,
-    "push": true,
-    "triage": true
+    "push": false,
+    "triage": false
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/4d-go-mobile/formatter-TextToImage/pulls{/number}",
@@ -195,17 +187,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/formatter-TextToImage/zipball/0.0.2"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/formatter-TextToImage/releases{/id}",
-  "security_and_analysis": {
-    "secret_scanning": {
-      "status": "disabled"
-    },
-    "secret_scanning_push_protection": {
-      "status": "disabled"
-    }
-  },
   "size": 401,
-  "squash_merge_commit_message": "COMMIT_MESSAGES",
-  "squash_merge_commit_title": "COMMIT_OR_PR_TITLE",
   "ssh_url": "git@github.com:4d-go-mobile/formatter-TextToImage.git",
   "stargazers_count": 0,
   "stargazers_url": "https://api.github.com/repos/4d-go-mobile/formatter-TextToImage/stargazers",
@@ -226,7 +208,6 @@
   "trees_url": "https://api.github.com/repos/4d-go-mobile/formatter-TextToImage/git/trees{/sha}",
   "updated_at": "2022-06-01T09:49:17Z",
   "url": "https://api.github.com/repos/4d-go-mobile/formatter-TextToImage",
-  "use_squash_pr_title_as_default": false,
   "visibility": "public",
   "watchers": 0,
   "watchers_count": 0,

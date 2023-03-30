@@ -1,10 +1,5 @@
 {
-  "allow_auto_merge": false,
   "allow_forking": true,
-  "allow_merge_commit": true,
-  "allow_rebase_merge": true,
-  "allow_squash_merge": true,
-  "allow_update_branch": false,
   "archive_url": "https://api.github.com/repos/4d-go-mobile/form-list-Simple-table-with-picture/{archive_format}{/ref}",
   "archived": false,
   "assignees_url": "https://api.github.com/repos/4d-go-mobile/form-list-Simple-table-with-picture/assignees{/user}",
@@ -19,7 +14,6 @@
   "contributors_url": "https://api.github.com/repos/4d-go-mobile/form-list-Simple-table-with-picture/contributors",
   "created_at": "2021-08-26T09:44:00Z",
   "default_branch": "main",
-  "delete_branch_on_merge": false,
   "deployments_url": "https://api.github.com/repos/4d-go-mobile/form-list-Simple-table-with-picture/deployments",
   "description": "4D Mobile List Form template",
   "disabled": false,
@@ -59,8 +53,6 @@
     "spdx_id": "NOASSERTION",
     "url": null
   },
-  "merge_commit_message": "PR_TITLE",
-  "merge_commit_title": "MERGE_MESSAGE",
   "merges_url": "https://api.github.com/repos/4d-go-mobile/form-list-Simple-table-with-picture/merges",
   "milestones_url": "https://api.github.com/repos/4d-go-mobile/form-list-Simple-table-with-picture/milestones{/number}",
   "mirror_url": null,
@@ -111,11 +103,11 @@
     "url": "https://api.github.com/users/4d-go-mobile"
   },
   "permissions": {
-    "admin": true,
-    "maintain": true,
+    "admin": false,
+    "maintain": false,
     "pull": true,
-    "push": true,
-    "triage": true
+    "push": false,
+    "triage": false
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/4d-go-mobile/form-list-Simple-table-with-picture/pulls{/number}",
@@ -195,17 +187,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/form-list-Simple-table-with-picture/zipball/0.1.1"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/form-list-Simple-table-with-picture/releases{/id}",
-  "security_and_analysis": {
-    "secret_scanning": {
-      "status": "disabled"
-    },
-    "secret_scanning_push_protection": {
-      "status": "disabled"
-    }
-  },
   "size": 879,
-  "squash_merge_commit_message": "COMMIT_MESSAGES",
-  "squash_merge_commit_title": "COMMIT_OR_PR_TITLE",
   "ssh_url": "git@github.com:4d-go-mobile/form-list-Simple-table-with-picture.git",
   "stargazers_count": 0,
   "stargazers_url": "https://api.github.com/repos/4d-go-mobile/form-list-Simple-table-with-picture/stargazers",
@@ -228,7 +210,6 @@
   "trees_url": "https://api.github.com/repos/4d-go-mobile/form-list-Simple-table-with-picture/git/trees{/sha}",
   "updated_at": "2022-06-01T10:06:05Z",
   "url": "https://api.github.com/repos/4d-go-mobile/form-list-Simple-table-with-picture",
-  "use_squash_pr_title_as_default": false,
   "visibility": "public",
   "watchers": 0,
   "watchers_count": 0,

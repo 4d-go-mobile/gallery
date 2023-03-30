@@ -1,10 +1,5 @@
 {
-  "allow_auto_merge": false,
   "allow_forking": true,
-  "allow_merge_commit": true,
-  "allow_rebase_merge": true,
-  "allow_squash_merge": true,
-  "allow_update_branch": false,
   "archive_url": "https://api.github.com/repos/4d-go-mobile/formatter-Html/{archive_format}{/ref}",
   "archived": false,
   "assignees_url": "https://api.github.com/repos/4d-go-mobile/formatter-Html/assignees{/user}",
@@ -19,7 +14,6 @@
   "contributors_url": "https://api.github.com/repos/4d-go-mobile/formatter-Html/contributors",
   "created_at": "2019-10-29T07:45:18Z",
   "default_branch": "master",
-  "delete_branch_on_merge": false,
   "deployments_url": "https://api.github.com/repos/4d-go-mobile/formatter-Html/deployments",
   "description": "Display formatted HTML or 4D styled text in a detailed view",
   "disabled": false,
@@ -59,8 +53,6 @@
     "spdx_id": "NOASSERTION",
     "url": null
   },
-  "merge_commit_message": "PR_TITLE",
-  "merge_commit_title": "MERGE_MESSAGE",
   "merges_url": "https://api.github.com/repos/4d-go-mobile/formatter-Html/merges",
   "milestones_url": "https://api.github.com/repos/4d-go-mobile/formatter-Html/milestones{/number}",
   "mirror_url": null,
@@ -111,11 +103,11 @@
     "url": "https://api.github.com/users/4d-go-mobile"
   },
   "permissions": {
-    "admin": true,
-    "maintain": true,
+    "admin": false,
+    "maintain": false,
     "pull": true,
-    "push": true,
-    "triage": true
+    "push": false,
+    "triage": false
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/4d-go-mobile/formatter-Html/pulls{/number}",
@@ -195,17 +187,7 @@
     "zipball_url": "https://api.github.com/repos/4d-go-mobile/formatter-Html/zipball/0.1.1"
   },
   "releases_url": "https://api.github.com/repos/4d-go-mobile/formatter-Html/releases{/id}",
-  "security_and_analysis": {
-    "secret_scanning": {
-      "status": "disabled"
-    },
-    "secret_scanning_push_protection": {
-      "status": "disabled"
-    }
-  },
   "size": 31,
-  "squash_merge_commit_message": "COMMIT_MESSAGES",
-  "squash_merge_commit_title": "COMMIT_OR_PR_TITLE",
   "ssh_url": "git@github.com:4d-go-mobile/formatter-Html.git",
   "stargazers_count": 0,
   "stargazers_url": "https://api.github.com/repos/4d-go-mobile/formatter-Html/stargazers",
@@ -226,7 +208,6 @@
   "trees_url": "https://api.github.com/repos/4d-go-mobile/formatter-Html/git/trees{/sha}",
   "updated_at": "2022-06-01T09:52:37Z",
   "url": "https://api.github.com/repos/4d-go-mobile/formatter-Html",
-  "use_squash_pr_title_as_default": false,
   "visibility": "public",
   "watchers": 0,
   "watchers_count": 0,
