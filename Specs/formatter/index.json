@@ -119,7 +119,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Bind a text to an image (\"jean.png\" for Jean, \"laurent.png\" for Laurent, ... )",
-      "download_count": 6,
+      "download_count": 7,
       "download_url": "https://github.com/4d-go-mobile/formatter-TextToImage/releases/download/0.0.2/formatter-TextToImage.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-TextToImage",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-TextToImage/0.0.2/logo.png",
