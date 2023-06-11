@@ -74,7 +74,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Bind an integer to an image (\"todo.png\" for 0, \"inprogress.png\" for 1, ...)",
-      "download_count": 7,
+      "download_count": 8,
       "download_url": "https://github.com/4d-go-mobile/formatter-IntegerToImage/releases/download/0.0.2/formatter-IntegerToImage.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-IntegerToImage",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-IntegerToImage/0.0.2/logo.png",
