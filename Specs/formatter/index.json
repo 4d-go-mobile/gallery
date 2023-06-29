@@ -132,7 +132,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Bind a text to a string (France for FRA, Morocco for MAR, ...)",
-      "download_count": 8,
+      "download_count": 9,
       "download_url": "https://github.com/4d-go-mobile/formatter-TextToString/releases/download/0.0.2/formatter-TextToString.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-TextToString",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-TextToString/0.0.2/logo.png",
