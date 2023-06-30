@@ -287,6 +287,9 @@
   },
   "releases_url": "https://api.github.com/repos/mesopelagique/formatter-UrlInApp/releases{/id}",
   "security_and_analysis": {
+    "dependabot_security_updates": {
+      "status": "disabled"
+    },
     "secret_scanning": {
       "status": "disabled"
     },
