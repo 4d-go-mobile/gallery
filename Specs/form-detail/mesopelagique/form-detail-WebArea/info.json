@@ -184,6 +184,9 @@
     },
     "secret_scanning_push_protection": {
       "status": "disabled"
+    },
+    "secret_scanning_validity_checks": {
+      "status": "disabled"
     }
   },
   "size": 1080,
