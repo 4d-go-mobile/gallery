@@ -87,18 +87,17 @@
     {
       "author": "4d-go-mobile",
       "description": "Open the mail application",
-      "download_count": 22,
-      "download_url": "https://github.com/4d-go-mobile/formatter-Mail/releases/download/0.1.0/formatter-Mail.zip",
+      "download_count": 10,
+      "download_url": "https://github.com/4d-go-mobile/formatter-Mail/releases/download/0.0.2/formatter-Mail.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Mail",
-      "image_url": "Specs/formatter/4d-go-mobile/formatter-Mail/0.1.0/logo.png",
+      "image_url": "Specs/formatter/4d-go-mobile/formatter-Mail/0.0.2/logo.png",
       "name": "mail",
       "stargazers_count": 0,
       "stargazers_url": "https://api.github.com/repos/4d-go-mobile/formatter-Mail/stargazers",
       "target": [
-        "ios",
-        "android"
+        "ios"
       ],
-      "version": "0.1.0"
+      "version": "0.0.2"
     },
     {
       "author": "4d-go-mobile",
