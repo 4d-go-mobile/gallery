@@ -13,6 +13,7 @@
   "contents_url": "https://api.github.com/repos/4d-go-mobile/formatter-Html/contents/{+path}",
   "contributors_url": "https://api.github.com/repos/4d-go-mobile/formatter-Html/contributors",
   "created_at": "2019-10-29T07:45:18Z",
+  "custom_properties": {},
   "default_branch": "master",
   "deployments_url": "https://api.github.com/repos/4d-go-mobile/formatter-Html/deployments",
   "description": "Display formatted HTML or 4D styled text in a detailed view",

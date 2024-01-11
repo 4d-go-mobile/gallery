@@ -13,6 +13,7 @@
   "contents_url": "https://api.github.com/repos/4d-go-mobile/formatter-Phone/contents/{+path}",
   "contributors_url": "https://api.github.com/repos/4d-go-mobile/formatter-Phone/contributors",
   "created_at": "2019-06-05T11:35:38Z",
+  "custom_properties": {},
   "default_branch": "master",
   "deployments_url": "https://api.github.com/repos/4d-go-mobile/formatter-Phone/deployments",
   "description": "When a phone number is clicked, open a menu to call the number or add a contact",

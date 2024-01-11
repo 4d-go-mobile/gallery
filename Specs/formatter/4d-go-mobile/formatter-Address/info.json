@@ -13,6 +13,7 @@
   "contents_url": "https://api.github.com/repos/4d-go-mobile/formatter-Address/contents/{+path}",
   "contributors_url": "https://api.github.com/repos/4d-go-mobile/formatter-Address/contributors",
   "created_at": "2019-06-05T12:24:25Z",
+  "custom_properties": {},
   "default_branch": "master",
   "deployments_url": "https://api.github.com/repos/4d-go-mobile/formatter-Address/deployments",
   "description": "Open the map app with the selected address",

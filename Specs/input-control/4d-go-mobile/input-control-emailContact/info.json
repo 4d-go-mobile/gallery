@@ -13,6 +13,7 @@
   "contents_url": "https://api.github.com/repos/4d-go-mobile/input-control-emailContact/contents/{+path}",
   "contributors_url": "https://api.github.com/repos/4d-go-mobile/input-control-emailContact/contributors",
   "created_at": "2021-07-21T21:49:28Z",
+  "custom_properties": {},
   "default_branch": "main",
   "deployments_url": "https://api.github.com/repos/4d-go-mobile/input-control-emailContact/deployments",
   "description": "Input control for mails that allow get thems from contacts",

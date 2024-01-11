@@ -13,6 +13,7 @@
   "contents_url": "https://api.github.com/repos/4d-go-mobile/input-control-currentAddressLocation/contents/{+path}",
   "contributors_url": "https://api.github.com/repos/4d-go-mobile/input-control-currentAddressLocation/contributors",
   "created_at": "2021-07-22T04:47:03Z",
+  "custom_properties": {},
   "default_branch": "main",
   "deployments_url": "https://api.github.com/repos/4d-go-mobile/input-control-currentAddressLocation/deployments",
   "description": "Provide current user location address",

@@ -13,6 +13,7 @@
   "contents_url": "https://api.github.com/repos/4d-go-mobile/input-control-phoneContact/contents/{+path}",
   "contributors_url": "https://api.github.com/repos/4d-go-mobile/input-control-phoneContact/contributors",
   "created_at": "2021-07-19T10:15:11Z",
+  "custom_properties": {},
   "default_branch": "main",
   "deployments_url": "https://api.github.com/repos/4d-go-mobile/input-control-phoneContact/deployments",
   "description": "Edition row for phone with a picker to get phone from contacts",

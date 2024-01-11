@@ -13,6 +13,7 @@
   "contents_url": "https://api.github.com/repos/4d-go-mobile/formatter-Emoji/contents/{+path}",
   "contributors_url": "https://api.github.com/repos/4d-go-mobile/formatter-Emoji/contributors",
   "created_at": "2019-06-05T12:48:19Z",
+  "custom_properties": {},
   "default_branch": "master",
   "deployments_url": "https://api.github.com/repos/4d-go-mobile/formatter-Emoji/deployments",
   "description": "Bind a bool or number field to an emoji to represent the gender (👩, 👨, 🧑)",

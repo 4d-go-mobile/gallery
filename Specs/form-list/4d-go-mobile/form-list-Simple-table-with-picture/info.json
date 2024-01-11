@@ -13,6 +13,7 @@
   "contents_url": "https://api.github.com/repos/4d-go-mobile/form-list-Simple-table-with-picture/contents/{+path}",
   "contributors_url": "https://api.github.com/repos/4d-go-mobile/form-list-Simple-table-with-picture/contributors",
   "created_at": "2021-08-26T09:44:00Z",
+  "custom_properties": {},
   "default_branch": "main",
   "deployments_url": "https://api.github.com/repos/4d-go-mobile/form-list-Simple-table-with-picture/deployments",
   "description": "4D Mobile List Form template",
