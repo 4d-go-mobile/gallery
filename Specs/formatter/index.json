@@ -3,7 +3,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Open the map app with the selected address",
-      "download_count": 14,
+      "download_count": 15,
       "download_url": "https://github.com/4d-go-mobile/formatter-Address/releases/download/0.1.1/formatter-Address.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Address",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-Address/0.1.1/logo.png",
@@ -32,7 +32,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Bind a bool or number field to an emoji to represent the gender (👩, 👨, 🧑)",
-      "download_count": 13,
+      "download_count": 14,
       "download_url": "https://github.com/4d-go-mobile/formatter-Emoji/releases/download/0.0.2/formatter-Emoji.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Emoji",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-Emoji/0.0.2/logo.png",
@@ -45,7 +45,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Display formatted HTML or 4D styled text in a detailed view",
-      "download_count": 9,
+      "download_count": 10,
       "download_url": "https://github.com/4d-go-mobile/formatter-Html/releases/download/0.1.1/formatter-Html.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Html",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-Html/0.1.1/logo.png",
@@ -87,7 +87,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Open the mail application",
-      "download_count": 22,
+      "download_count": 23,
       "download_url": "https://github.com/4d-go-mobile/formatter-Mail/releases/download/0.1.0/formatter-Mail.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Mail",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-Mail/0.1.0/logo.png",
