@@ -193,7 +193,7 @@
   "squash_merge_commit_message": "COMMIT_MESSAGES",
   "squash_merge_commit_title": "COMMIT_OR_PR_TITLE",
   "ssh_url": "git@github.com:mesopelagique/form-login-SignInWithQRCode.git",
-  "stargazers_count": 3,
+  "stargazers_count": 4,
   "stargazers_url": "https://api.github.com/repos/mesopelagique/form-login-SignInWithQRCode/stargazers",
   "statuses_url": "https://api.github.com/repos/mesopelagique/form-login-SignInWithQRCode/statuses/{sha}",
   "subscribers_count": 1,
@@ -208,11 +208,11 @@
     "4d-for-ios-form-login"
   ],
   "trees_url": "https://api.github.com/repos/mesopelagique/form-login-SignInWithQRCode/git/trees{/sha}",
-  "updated_at": "2023-05-22T02:33:18Z",
+  "updated_at": "2024-04-01T00:33:56Z",
   "url": "https://api.github.com/repos/mesopelagique/form-login-SignInWithQRCode",
   "use_squash_pr_title_as_default": false,
   "visibility": "public",
-  "watchers": 3,
-  "watchers_count": 3,
+  "watchers": 4,
+  "watchers_count": 4,
   "web_commit_signoff_required": false
 }
