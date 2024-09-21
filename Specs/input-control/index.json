@@ -3,7 +3,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Edition row for phone with a picker to get phone from contacts",
-      "download_count": 16,
+      "download_count": 18,
       "download_url": "https://github.com/4d-go-mobile/input-control-phoneContact/releases/download/0.1.3/input-control-phoneContact.zip",
       "html_url": "https://github.com/4d-go-mobile/input-control-phoneContact",
       "name": "phoneContact",
@@ -19,7 +19,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Input control for mails that allow get thems from contacts",
-      "download_count": 11,
+      "download_count": 12,
       "download_url": "https://github.com/4d-go-mobile/input-control-emailContact/releases/download/0.1.2/input-control-emailContact.zip",
       "html_url": "https://github.com/4d-go-mobile/input-control-emailContact",
       "name": "emailContact",
@@ -35,7 +35,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Autofill user current location: lat+long",
-      "download_count": 6,
+      "download_count": 8,
       "download_url": "https://github.com/4d-go-mobile/input-control-currentLocation/releases/download/0.1.3/input-control-currentLocation.zip",
       "html_url": "https://github.com/4d-go-mobile/input-control-currentLocation",
       "image_url": "Specs/input-control/4d-go-mobile/input-control-currentLocation/0.1.3/logo.png",
@@ -51,7 +51,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Provide current user location address",
-      "download_count": 2,
+      "download_count": 5,
       "download_url": "https://github.com/4d-go-mobile/input-control-currentAddressLocation/releases/download/0.1.2/input-control-currentAddressLocation.zip",
       "html_url": "https://github.com/4d-go-mobile/input-control-currentAddressLocation",
       "image_url": "Specs/input-control/4d-go-mobile/input-control-currentAddressLocation/0.1.2/logo.png",
@@ -67,7 +67,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Boolean input using two images",
-      "download_count": 8,
+      "download_count": 10,
       "download_url": "https://github.com/4d-go-mobile/input-control-imageCheck/releases/download/0.0.3/input-control-imageCheck.zip",
       "html_url": "https://github.com/4d-go-mobile/input-control-imageCheck",
       "image_url": "Specs/input-control/4d-go-mobile/input-control-imageCheck/0.0.3/logo.png",
