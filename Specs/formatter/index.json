@@ -32,7 +32,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Bind a bool or number field to an emoji to represent the gender (👩, 👨, 🧑)",
-      "download_count": 16,
+      "download_count": 17,
       "download_url": "https://github.com/4d-go-mobile/formatter-Emoji/releases/download/0.0.2/formatter-Emoji.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Emoji",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-Emoji/0.0.2/logo.png",
@@ -132,7 +132,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Bind a text to a string (France for FRA, Morocco for MAR, ...)",
-      "download_count": 12,
+      "download_count": 13,
       "download_url": "https://github.com/4d-go-mobile/formatter-TextToString/releases/download/0.0.2/formatter-TextToString.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-TextToString",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-TextToString/0.0.2/logo.png",
