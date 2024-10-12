@@ -19,7 +19,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Bind a bool to an image, (🔴 for False, 🟢 for True)",
-      "download_count": 21,
+      "download_count": 22,
       "download_url": "https://github.com/4d-go-mobile/formatter-BoolToImage/releases/download/0.0.2/formatter-BoolToImage.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-BoolToImage",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-BoolToImage/0.0.2/logo.png",
