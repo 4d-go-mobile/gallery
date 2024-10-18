@@ -30,7 +30,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/4d-go-mobile/form-list-Mozaic/releases/assets/33325270"
     }
@@ -54,7 +55,8 @@
     "starred_url": "https://api.github.com/users/mesopelagique/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/mesopelagique/subscriptions",
     "type": "User",
-    "url": "https://api.github.com/users/mesopelagique"
+    "url": "https://api.github.com/users/mesopelagique",
+    "user_view_type": "public"
   },
   "body": "🤖 android first release",
   "created_at": "2021-03-11T10:24:37Z",

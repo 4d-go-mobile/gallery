@@ -81,7 +81,8 @@
     "starred_url": "https://api.github.com/users/4d-go-mobile/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/4d-go-mobile/subscriptions",
     "type": "Organization",
-    "url": "https://api.github.com/users/4d-go-mobile"
+    "url": "https://api.github.com/users/4d-go-mobile",
+    "user_view_type": "public"
   },
   "owner": {
     "avatar_url": "https://avatars.githubusercontent.com/u/79459282?v=4",
@@ -101,7 +102,8 @@
     "starred_url": "https://api.github.com/users/4d-go-mobile/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/4d-go-mobile/subscriptions",
     "type": "Organization",
-    "url": "https://api.github.com/users/4d-go-mobile"
+    "url": "https://api.github.com/users/4d-go-mobile",
+    "user_view_type": "public"
   },
   "parent": {
     "allow_forking": true,
@@ -184,7 +186,8 @@
       "starred_url": "https://api.github.com/users/4d-for-ios/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/4d-for-ios/subscriptions",
       "type": "Organization",
-      "url": "https://api.github.com/users/4d-for-ios"
+      "url": "https://api.github.com/users/4d-for-ios",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/4d-for-ios/form-detail-LeftCutHeader/pulls{/number}",
@@ -255,7 +258,8 @@
           "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
           "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
           "type": "Bot",
-          "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+          "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+          "user_view_type": "public"
         },
         "url": "https://api.github.com/repos/4d-go-mobile/form-detail-LeftCutHeader/releases/assets/76669412"
       }
@@ -279,7 +283,8 @@
       "starred_url": "https://api.github.com/users/quentinmarciset/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/quentinmarciset/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/quentinmarciset"
+      "url": "https://api.github.com/users/quentinmarciset",
+      "user_view_type": "public"
     },
     "body": "",
     "created_at": "2022-09-02T11:29:23Z",
@@ -380,7 +385,8 @@
       "starred_url": "https://api.github.com/users/4d-for-ios/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/4d-for-ios/subscriptions",
       "type": "Organization",
-      "url": "https://api.github.com/users/4d-for-ios"
+      "url": "https://api.github.com/users/4d-for-ios",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/4d-for-ios/form-detail-LeftCutHeader/pulls{/number}",

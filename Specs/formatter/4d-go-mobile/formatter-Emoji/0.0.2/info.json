@@ -30,7 +30,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/4d-go-mobile/formatter-Emoji/releases/assets/49646654"
     }
@@ -54,7 +55,8 @@
     "starred_url": "https://api.github.com/users/david-azancot/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/david-azancot/subscriptions",
     "type": "User",
-    "url": "https://api.github.com/users/david-azancot"
+    "url": "https://api.github.com/users/david-azancot",
+    "user_view_type": "public"
   },
   "body": "Update README",
   "created_at": "2021-11-16T15:22:47Z",

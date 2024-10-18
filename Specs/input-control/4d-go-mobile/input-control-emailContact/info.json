@@ -81,7 +81,8 @@
     "starred_url": "https://api.github.com/users/4d-go-mobile/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/4d-go-mobile/subscriptions",
     "type": "Organization",
-    "url": "https://api.github.com/users/4d-go-mobile"
+    "url": "https://api.github.com/users/4d-go-mobile",
+    "user_view_type": "public"
   },
   "owner": {
     "avatar_url": "https://avatars.githubusercontent.com/u/79459282?v=4",
@@ -101,7 +102,8 @@
     "starred_url": "https://api.github.com/users/4d-go-mobile/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/4d-go-mobile/subscriptions",
     "type": "Organization",
-    "url": "https://api.github.com/users/4d-go-mobile"
+    "url": "https://api.github.com/users/4d-go-mobile",
+    "user_view_type": "public"
   },
   "permissions": {
     "admin": false,
@@ -145,7 +147,8 @@
           "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
           "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
           "type": "Bot",
-          "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+          "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+          "user_view_type": "public"
         },
         "url": "https://api.github.com/repos/4d-go-mobile/input-control-emailContact/releases/assets/81012696"
       }
@@ -169,7 +172,8 @@
       "starred_url": "https://api.github.com/users/quentinmarciset/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/quentinmarciset/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/quentinmarciset"
+      "url": "https://api.github.com/users/quentinmarciset",
+      "user_view_type": "public"
     },
     "body": "",
     "created_at": "2022-10-14T12:49:55Z",
