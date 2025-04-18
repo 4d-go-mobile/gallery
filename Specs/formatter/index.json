@@ -3,7 +3,7 @@
     {
       "author": "4d-go-mobile",
       "description": "Open the map app with the selected address",
-      "download_count": 20,
+      "download_count": 21,
       "download_url": "https://github.com/4d-go-mobile/formatter-Address/releases/download/0.1.1/formatter-Address.zip",
       "html_url": "https://github.com/4d-go-mobile/formatter-Address",
       "image_url": "Specs/formatter/4d-go-mobile/formatter-Address/0.1.1/logo.png",
@@ -177,7 +177,7 @@
     {
       "author": "mesopelagique",
       "description": "Open url into internal app web browser",
-      "download_count": 21,
+      "download_count": 22,
       "download_url": "https://github.com/mesopelagique/formatter-UrlInApp/releases/download/0.0.2/formatter-UrlInApp.zip",
       "html_url": "https://github.com/mesopelagique/formatter-UrlInApp",
       "image_url": "Specs/formatter/mesopelagique/formatter-UrlInApp/0.0.2/logo.png",
