@@ -167,6 +167,7 @@
     "draft": false,
     "html_url": "https://github.com/mesopelagique/form-detail-WebArea/releases/tag/0.2.3",
     "id": 70472017,
+    "immutable": false,
     "name": "iOS: Use shared cookie storage",
     "node_id": "RE_kwDOE4tUy84EM1FR",
     "prerelease": false,
